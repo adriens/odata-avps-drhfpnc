@@ -1,80 +1,39 @@
 id_avp,libelle_poste,rome_code_libelle,rome_code,numero_avp,date_mise_en_ligne,nom_collectivite_entreprise,libelle_corps_grade,date_poste_a_pourvoir,libelle_direction_entreprise,acronyme_entreprise,lieu_exercice_travail,date_cloture_avp,missions_emploi,contact_email
-54527,Gestionnaire des carrières et des rémunérations,,,24-1610,2024-10-24,Caisse des écoles de Nouméa,rédacteur d'administration générale,,Caisse des écoles de Nouméa,CDE Nouméa,,2024-11-14,,
-54217,Un professeur agrégé ou certifié en Physique Chimie,,,24-1532,2024-10-10,Université de Nouvelle-Calédonie,professeur agrégé,,Université de Nouvelle-Calédonie,UNC,,2024-10-31,,
-54526,Directeur adjoint en charge de l'aménagement et suivis  de grands projets,,,24-1609,2024-10-24,Port autonome de Nouvelle-Calédonie,emploi fonctionnel,,Port autonome de Nouvelle-Calédonie,PANC,,2024-11-14,,
-54523,Concepteur-développeur innovation à la Direction du pilotage  et de la performance,,,24-1606,2024-10-24,Office des postes et télécommunications,ingénieur,,Office des postes et télécommunications,OPT,,2024-11-14,,
-54138,Coordinateur Roaming,,,24-1510,2024-10-03,Office des postes et télécommunications,cadre technique,,Office des postes et télécommunications,OPT,,2024-10-31,,
-54515,5 Infirmiers(es) en soins généraux en néonatalogie,,,24-1599,2024-10-24,"Centre hospitalier territorial ""Gaston Bourret""",infirmier diplômé d'État,,"Centre hospitalier territorial ""Gaston Bourret""",CHT,,2024-11-14,,
-54223,ASSISTANT(E) DENTAIRE,,,24-1538,2024-10-10,"Centre hospitalier territorial ""Gaston Bourret""",aide-soignant,,"Centre hospitalier territorial ""Gaston Bourret""",CHT,,2024-10-31,,
-54514,Auxiliaire de puériculture en pédiatrie et néonatalogie,,,24-1598,2024-10-24,"Centre hospitalier territorial ""Gaston Bourret""",auxiliaire de puériculture,,"Centre hospitalier territorial ""Gaston Bourret""",CHT,,2024-11-14,,
-54513,1 Diététicien(ne),,,24-1597,2024-10-24,"Centre hospitalier territorial ""Gaston Bourret""",diététicien,,"Centre hospitalier territorial ""Gaston Bourret""",CHT,,2024-11-14,,
-53056,Administrateur Réseau et Datacenter,Administrateur système informatique,M1801-3,24-53056/MPRH,2024-09-18,Nouvelle-Calédonie,ingénieur,,Direction du numérique et de la modernisation,DINUM,NOUMEA,2024-11-14,"L'administrateur réseau et datacenter assure l'administration, la gestion et le maintien en condition opérationnelle et de sécurité des réseaux, des infrastructures et du système de sauvegarde. Il contribue à leur évolution et à leur amélioration en fonction du schéma directeur.",georges.wapae@gouv.nc
-52572,Chef(fe) du service ressources,"Responsable administratif, administratif de gestion, administratif et financier",M1205-1,24-52572/MPRH,2024-07-11,Nouvelle-Calédonie,attaché,,Direction du numérique et de la modernisation,DINUM,Nouméa,2024-11-21,"Rattaché à la direction, le(la) chef(fe) de service ""Ressources"" a pour missions d'animer et d'encadrer le service en garantissant son fonctionnement optimal et  sa performance en fonction des objectifs stratégiques fixés en matière RH, budgétaire, financière et gestion des achats de la direction.",georges.wapae@gouv.nc
-53772,"Ingénieur Mobilité, Efficacité et Sobriété énergétique","Ingénieur d'études (béton armé, BTP, constructions métalliques, de prix BTP, en génie climatique-électrique)",F1106-5,24-53772/MPRH,2024-10-06,Nouvelle-Calédonie,ingénieur,,"Direction de l'industrie, des mines et de l'énergie",DIMENC,Nouméa,2024-11-07,"Sous l'autorité du chef de service, l'agent a pour missions de mettre en place et piloter la stratégie du gouvernement sur les 3 thématiques suivantes :
-I. Mobilité
-
-II. Efficacité énergétique des équipements et des bâtiments
-
-III. Sobriété énergétique
-Pour ces 3 thématiques, l'agent devra :
-- Elaborer et suivre les cadres réglementaires en concertation avec les acteurs du secteur
-- Gérer les budgets alloués à ces thématiques à l'échelle du gouvernement
-- Assurer la coordination et la cohérence des actions à mettre en place par le gouvernement et ses directions et l'ACE 
-- Au besoin, assurer la communication des dispositifs mis en place
-- Assurer une veille réglementaire continue 
-- Réaliser une évaluation continue des réglementations en place",nicolas.favray@gouv.nc
-52889,Chef de service éducatif - FAEP,Educateur chef de service socioéducatif,K1207-2,24-52889/MPRH,2024-07-28,Nouvelle-Calédonie,cadre socio-éducatif,,Direction de la protection judiciaire de l'enfance et de la jeunesse,DPJEJ,PAITA,2024-11-07,"Sous l'autorité du chef de service de l'établissement de placement judiciaire, le chef de service éducatif est en charge de l'animation pédagogique et administrative de son unité. Il garantit la prise en charge des mineurs faisant l'objet de mesures judiciaires au titre de l'ordonnance du 2 février 1945 ou des articles 375 et suivants du code civil.
-
-Le chef de service éducatif est responsable de la coordination du suivi judiciaire des mineurs pris en charge et de leur contrôle. Il rend compte de l'exécution des missions confiées, de l'utilisation des moyens, et des actions menées. Il est garant de l'action éducative mise en œuvre.",jena.bouteille@gouv.nc
-53896,Contrôleur du travail,"Inspecteur (du travail en agriculture, du travail et de l'emploi)",K1502-6,24-53896/MPRH,2024-10-10,Nouvelle-Calédonie,rédacteur,2024-11-03,"Direction du travail, de l'emploi et de la formation professionnelle",DTEFP,Koné,2024-10-31,"Le contrôleur est chargé principalement d'assurer le contrôle du respect de la législation du travail et constate d'éventuelles infractions, d'agir en matière de prévention des risques professionnels et d'amélioration des conditions de travail et des relations sociales.",gundo.folz@gouv.nc
-54105,Directeur(trice) de la communication,,,24-1479,2024-10-03,Province Sud,attaché,,Province Sud,PVS,,2024-10-31,,
-53921,Assistant(e) social(e) de secteur,,,24-1441,2024-09-19,Province Nord,assistant socio-éducatif,,Province Nord,PVN,,2024-11-14,,
-53913,Psychomotricien,,,24-1433,2024-09-19,Province Nord,psychomotricien,,Province Nord,PVN,,2024-11-14,,
-53119,Sage-femme,,,24-1238,2024-08-01,Province Nord,sage femme,,Province Nord,PVN,,2024-11-07,,
-54435,Médecin CMS Ouégoa,,,24-1596,2024-10-17,Province Nord,médecin de santé publique,,Province Nord,PVN,,2024-11-07,,
-54235,Médecin,,,24-1549,2024-10-10,Province Nord,médecin de santé publique,,Province Nord,PVN,,2024-10-31,,
-54236,GESTIONNAIRE RESSOURCES HUMAINES  DE L'ENSEIGNEMENT PRIVE,,,24-1550,2024-10-10,Vice-rectorat,rédacteur,,Vice-rectorat,VR,,2024-10-31,,
-53998,5 MASSEURS KINESITHERAPEUTES,,,24-1470,2024-09-26,"Centre hospitalier territorial ""Gaston Bourret""",masseur kinésithérapeute,,"Centre hospitalier territorial ""Gaston Bourret""",CHT,,2024-10-31,,
-53256,Vérificateur,"Inspecteur (principal, vérificateur des impôts)",K1503-1,24-53256/MPRH,2024-09-12,Nouvelle-Calédonie,attaché,,Direction des services fiscaux,DSF,Nouméa,2024-11-14,"Sous l'autorité du chef de service, le vérificateur mène des opérations de contrôle consistant à vérifier la cohérence entre les déclarations fiscales souscrites et la comptabilité des entreprises ou les revenus des particuliers. L'exercice de la mission concerne l'ensemble du territoire de la Nouvelle-Calédonie, le vérificateur peut donc être amené à effectuer des déplacements.",pierre.bouquillon@gouv.nc
-54229,Technicien supérieur en informatique,,,24-1544,2024-10-10,,technicien,,,,,2024-10-31,,
-54379,RESPONSABLE FINANCIER,,,24-1594,2024-10-17,,rédacteur,,,,,2024-11-07,,
-54538,Chef de centre d'incendie et de secours (CIS),,,24-1621,2024-10-24,,lieutenant,,,,,2024-11-14,,
-54372,2 Sapeurs-pompiers professionnels (C),,,24-1587,2024-10-17,,sergent,,,,,2024-11-07,,
-54354,Infirmier(ère) à l'UPASS de Yaté,,,24-1569,2024-10-17,Province Sud,infirmier en soins généraux,,Province Sud,PVS,,2024-11-07,,
-54356,Infirmier(ère) au centre médico-social de Thio,,,24-1571,2024-10-17,Province Sud,infirmier diplômé d'État,,Province Sud,PVS,,2024-11-07,,
-54216,Chef de projet digital,,,24-1531,2024-10-10,Province Sud,attaché,,Province Sud,PVS,,2024-10-31,,
-54214,Référent sécurité et projets transversaux du système d'information,,,24-1529,2024-10-10,Province Sud,ingénieur,,Province Sud,PVS,,2024-10-31,,
-54374,Chef de projet numérique éducatif,,,24-1589,2024-10-17,Province Sud,ingénieur,,Province Sud,PVS,,2024-11-07,,
-53303,Développeur d'applications full stack - Chef projet informatique,,,24-1279,2024-08-15,Province Sud,ingénieur,,Province Sud,PVS,,2024-10-31,,
-54361,Chargé(e) d'études mobilité durable,,,24-1576,2024-10-17,Province Sud,ingénieur,,Province Sud,PVS,,2024-11-07,,
-54368,Responsable du bureau technique et des publics du Parc  Provincial Zoologique et Forestier Michel Corbasson,,,24-1583,2024-10-17,Province Sud,ingénieur,,Province Sud,PVS,,2024-11-07,,
-54347,Responsable du département de Bourail au SPPAT,,,24-1562,2024-10-17,Province Sud,ingénieur,,Province Sud,PVS,,2024-11-07,,
-52597,Assistant(e) social(e) de polyvalence de secteur,,,24-1045,2024-06-27,Province Sud,assistant socio-éducatif,,Province Sud,PVS,,2024-11-07,,
-54364,Adjoint d'éducation polyvalent (poste ouvert exclusivement  aux candidatures masculines - dortoirs garçons),,,24-1579,2024-10-17,Province Sud,adjoint administratif,,Province Sud,PVS,,2024-11-07,,
-54348,Régisseur(euse) et assistant(e) administratif(ve) et financier(ière) au centre d'activités nautiques (CAN),,,24-1563,2024-10-17,Province Sud,adjoint administratif,,Province Sud,PVS,,2024-11-07,,
-54349,Conseiller à l'emploi et au logement,,,24-1564,2024-10-17,Province Sud,rédacteur,,Province Sud,PVS,,2024-11-07,,
-54357,Gestionnaire des marchés publics,,,24-1572,2024-10-17,Province Sud,attaché,,Province Sud,PVS,,2024-11-07,,
-54355,"Chef de service du ""pôle ressources""",,,24-1570,2024-10-17,Province Sud,attaché,,Province Sud,PVS,,2024-11-07,,
-54365,Adjoint d'éducation (poste ouvert exclusivement aux candidatures  masculines pour dortoir garçons),,,24-1580,2024-10-17,Province Sud,adjoint d'éducation,,Province Sud,PVS,,2024-11-07,,
-53353,Médecin à l'UPASS de Thio,,,24-1323,2024-08-15,Province Sud,médecin de santé publique,,Province Sud,PVS,,2024-10-31,,
-53349,Médecin à l'UPASS de Bourail,,,24-1319,2024-08-15,Province Sud,médecin de santé publique,,Province Sud,PVS,,2024-10-31,,
-52599,Médecin à l'UPASS de Thio,,,24-1047,2024-06-27,Province Sud,médecin de santé publique,,Province Sud,PVS,,2024-11-07,,
-53354,Médecin à l'UPASS de l'île des Pins,,,24-1324,2024-08-15,Province Sud,médecin de santé publique,,Province Sud,PVS,,2024-10-31,,
-52303,Médecin itinérant en province Sud,,,24-0985,2024-06-06,Province Sud,médecin de santé publique,,Province Sud,PVS,,2024-11-14,,
-54363,"Psychologue scolaire dans la 6ème circonscription (Bourail, La Foa)",,,24-1578,2024-10-17,Province Sud,psychologue,,Province Sud,PVS,,2024-11-07,,
-54540,Chef de service patrimoine immobilier,,,24-1622,2024-10-24,Province Nord,ingénieur,,Province Nord,PVN,,2024-11-14,,
-54377,Chef du service topographique et foncier,,,24-1592,2024-10-17,Province Nord,ingénieur,,Province Nord,PVN,,2024-11-07,,
-54548,Juriste Environnement,,,24-1629,2024-10-24,Province Nord,attaché,,Province Nord,PVN,,2024-11-14,,
-54551,Adjoint d'éducation   (Dortoir garçons),,,247-1632,2024-10-24,Province Nord,adjoint d'éducation,,Province Nord,PVN,,2024-11-14,,
-54375,INFIRMIER EN SOINS GÉNÉRAUX,,,24-1590,2024-10-17,Province Nord,infirmier en soins généraux,,Province Nord,PVN,,2024-11-07,,
-54541,02 Médecins  - Houailou,,,24-1623,2024-10-24,Province Nord,médecin de santé publique,,Province Nord,PVN,,2024-11-14,,
-54542,02 Médecins  - Ponérihouen,,,24-1624,2024-10-24,Province Nord,médecin de santé publique,,Province Nord,PVN,,2024-11-14,,
-54378,Médecin du travail,,,24-1593,2024-10-17,Province Nord,médecin de santé publique,,Province Nord,PVN,,2024-11-07,,
-54543,Médecin  - Poum,,,24-1625,2024-10-24,Province Nord,médecin de santé publique,,Province Nord,PVN,,2024-11-14,,
-54227,Adjoint-gestionnaire dans un établissement public d'enseignement de la Nouvelle-Calédonie,,,24-1542,2024-10-10,Vice-rectorat,attaché,,Vice-rectorat,VR,,2024-10-31,,
-54224,Bibliothécaire,,,24-1539,2024-10-10,Bibliothèque Bernheim,assistant de conservation,,Bibliothèque Bernheim,BBernheim,,2024-10-31,,
-54352,1 Infirmier (ère) Hygiéniste Hospitalier,,,24-1567,2024-10-17,Centre hospitalier du Nord,infirmier en soins généraux,,Centre hospitalier du Nord,CHN,,2024-11-07,,
-54338,1 INFIRMIER (ERE),,,24-1554,2024-10-17,Centre hospitalier du Nord,infirmier en soins généraux,,Centre hospitalier du Nord,CHN,,2024-11-07,,
+54118,Assistant(e) social(e) de polyvalence de secteur,,,24-1492,2024-10-03,Province Sud,assistant socio-éducatif,,Province Sud,PVS,,2024-11-21,,
+53934,Chargé(e) d'études en contrôle de gestion,,,24-1454,2024-09-19,Province Sud,attaché,,Province Sud,PVS,,2024-11-07,,
+51261,Infirmier(ère) au centre médico-social de Thio,,,24-0613,2024-03-21,Province Sud,infirmier en soins généraux,2024-08-31,Province Sud,PVS,,2024-11-07,,
+54108,Orthophoniste au Service de Prévention et de Promotion de la Santé,,,24-1482,2024-10-03,Province Sud,orthophoniste,,Province Sud,PVS,,2024-10-31,,
+52814,3 INFIRMIERS EN SOINS GENERAUX,,,24-1125,2024-07-11,Province Nord,infirmier en soins généraux,,Province Nord,PVN,,2024-11-07,,
+53242,INFIRMIER EN SOINS GENERAUX,,,24-1254,2024-08-08,Province Nord,infirmier en soins généraux,,Province Nord,PVN,,2024-11-14,,
+54397,Médecin,,,24-1595,2024-10-17,Province Nord,médecin de santé publique,,Province Nord,PVN,,2024-11-07,,
+53717,Directeur,,,24-1395,2024-09-05,Province Nord,emploi fonctionnel,,Province Nord,PVN,,2024-11-14,,
+54005,Un ou une responsable du pôle « ingénierie documentaire »,,,24-1477,2024-09-26,Université de Nouvelle-Calédonie,Attaché de conservation - conservateur,,Université de Nouvelle-Calédonie,UNC,,2024-10-26,,
+54237,Concepteur développeur d'applications,,,24-1551,2024-10-10,Office des postes et télécommunications,ingénieur,,Office des postes et télécommunications,OPT,,2024-10-31,,
+53996,2 MANIPULATEURS EN ELECTRORADIOLOGIE,,,24-1468,2024-09-26,"Centre hospitalier territorial ""Gaston Bourret""",manipulateur en électroradiologie,,"Centre hospitalier territorial ""Gaston Bourret""",CHT,,2024-10-31,,
+53822,cadre de santé CMP Galliéni - AUP,,,24-1426,2024-09-12,"Centre hospitalier spécialisé ""Albert Bousquet""",cadre de santé,,"Centre hospitalier spécialisé ""Albert Bousquet""",CHS,,2024-11-07,,
+54531,1 gestionnaire ressources humaines,,,24-1614,2024-10-24,,rédacteur d'administration générale,,,,,2024-11-14,,
+54232,Assistant/e comptable et RH,,,24-1547,2024-10-10,,adjoint administratif,,,,,2024-10-31,,
+54530,1 chef de salle,,,24-1613,2024-10-24,,adjudant,,,,,2024-11-14,,
+54528,Ouvrier polyvalent technique Cellule Logistique,,,24-1611,2024-10-24,,ACDP-Grille rémunération 2-Diplôme niveau V,,,,,2024-11-14,,
+54366,Mécanicien,,,24-1581,2024-10-17,,ACDP-Grille rémunération 2-Diplôme niveau V,,,,,2024-11-07,,
+54215,Chef de projet Data et IA,,,24-1530,2024-10-10,Province Sud,ingénieur,,Province Sud,PVS,,2024-10-31,,
+54367,Travailleur social : mi-temps référent dispositif mineurs en errance  et mi-temps bureau de l'accueil familial Sud,,,24-1582,2024-10-17,Province Sud,assistant socio-éducatif,,Province Sud,PVS,,2024-11-07,,
+54360,Chargé d'accueil et d'information,,,24-1575,2024-10-17,Province Sud,adjoint administratif,,Province Sud,PVS,,2024-11-07,,
+54353,Secrétaire du service de protection de l'enfance,,,24-1568,2024-10-17,Province Sud,adjoint administratif,,Province Sud,PVS,,2024-11-07,,
+54519,Acheteur public,,,24-1603,2024-10-24,Province Sud,rédacteur,,Province Sud,PVS,,2024-11-14,,
+54345,Responsable du centre d'accueil de Poé (CAP)  et de l'espace culturel de DEVA (ECD),,,24-1560,2024-10-17,Province Sud,conseiller des APS,,Province Sud,PVS,,2024-11-07,,
+53520,Médecin du CMS de Dumbéa sur mer  - UPASS Grande couronne - Agglomération,,,24-1331,2024-08-29,Province Sud,médecin de santé publique,,Province Sud,PVS,,2024-11-14,,
+53351,Médecin à l'UPASS de La Foa,,,24-1321,2024-08-15,Province Sud,médecin de santé publique,,Province Sud,PVS,,2024-10-31,,
+52172,Assistant(e) social(e) de secteur,,,24-0954,2024-05-23,Province Nord,assistant socio-éducatif,,Province Nord,PVN,,2024-11-07,,
+54552,Chef du service administratif et financier,,,24-1633,2024-10-24,Province Nord,attaché,,Province Nord,PVN,,2024-11-14,,
+54550,Adjoint d'éducation (dortoir garçon),,,24-1631,2024-10-24,Province Nord,adjoint d'éducation,,Province Nord,PVN,,2024-11-14,,
+54376,2 INFIRMIERS EN SOINS GÉNÉRAUX,,,24-1591,2024-10-17,Province Nord,infirmier en soins généraux,,Province Nord,PVN,,2024-11-07,,
+54545,Médecin - Voh,,,24-1627,2024-10-24,Province Nord,médecin de santé publique,,Province Nord,PVN,,2024-11-14,,
+54544,Médecin  - Bélep,,,24-1626,2024-10-24,Province Nord,médecin de santé publique,,Province Nord,PVN,,2024-11-14,,
+54341,Conseiller Technique du service social en faveur des élèves,,,24-1556,2024-10-17,Vice-rectorat,cadre socio-éducatif,,Vice-rectorat,VR,,2024-11-07,,
+54230,GESTIONNAIRE RESSOURCES HUMAINES  DE L'ENSEIGNEMENT PRIVÉ,,,24-1545,2024-10-10,Vice-rectorat,adjoint administratif,,Vice-rectorat,VR,,2024-10-31,,
+54555,02 INFIRMIERS (ERES),,,24-1636,2024-10-24,Centre hospitalier du Nord,infirmier en soins généraux,,Centre hospitalier du Nord,CHN,,2024-11-14,,
+54556,01 Technicien d'Analyses en Biologie Médicale,,,24-1637,2024-10-24,Centre hospitalier du Nord,technicien de laboratoire,,Centre hospitalier du Nord,CHN,,2024-11-14,,
 54370,Enseignant(e) musical(e) DMTCPO,,,24-1585,2024-10-17,Conservatoire de musique et de danse,assistant d'enseignement musical,,Conservatoire de musique et de danse,CMD-NC,,2024-11-07,,
 54343,ASSISTANT(E) PATRIMOINE,,,24-1558,2024-10-17,Port autonome de Nouvelle-Calédonie,rédacteur,,Port autonome de Nouvelle-Calédonie,PANC,,2024-11-07,,
 54525,Directeur adjoint en charge des finances et du développement                 économique,,,24-1608,2024-10-24,Port autonome de Nouvelle-Calédonie,emploi fonctionnel,,Port autonome de Nouvelle-Calédonie,PANC,,2024-11-14,,
@@ -207,6 +166,82 @@ Placé sous la responsabilité du chef de service, le chef de section réseau et
 54554,01 INFIRMIER (ERE),,,24-1635,2024-10-24,Centre hospitalier du Nord,infirmier en soins généraux,,Centre hospitalier du Nord,CHN,,2024-11-14,,
 54339,2 SAGES FEMMES,,,24-1555,2024-10-17,Centre hospitalier du Nord,sage femme,,Centre hospitalier du Nord,CHN,,2024-11-07,,
 54295,Directeur,,,24-1553,2024-10-10,Centre hospitalier du Nord,emploi fonctionnel,,Centre hospitalier du Nord,CHN,,2024-10-31,,
+54527,Gestionnaire des carrières et des rémunérations,,,24-1610,2024-10-24,Caisse des écoles de Nouméa,rédacteur d'administration générale,,Caisse des écoles de Nouméa,CDE Nouméa,,2024-11-14,,
+54217,Un professeur agrégé ou certifié en Physique Chimie,,,24-1532,2024-10-10,Université de Nouvelle-Calédonie,professeur agrégé,,Université de Nouvelle-Calédonie,UNC,,2024-10-31,,
+54526,Directeur adjoint en charge de l'aménagement et suivis  de grands projets,,,24-1609,2024-10-24,Port autonome de Nouvelle-Calédonie,emploi fonctionnel,,Port autonome de Nouvelle-Calédonie,PANC,,2024-11-14,,
+54523,Concepteur-développeur innovation à la Direction du pilotage  et de la performance,,,24-1606,2024-10-24,Office des postes et télécommunications,ingénieur,,Office des postes et télécommunications,OPT,,2024-11-14,,
+54138,Coordinateur Roaming,,,24-1510,2024-10-03,Office des postes et télécommunications,cadre technique,,Office des postes et télécommunications,OPT,,2024-10-31,,
+54515,5 Infirmiers(es) en soins généraux en néonatalogie,,,24-1599,2024-10-24,"Centre hospitalier territorial ""Gaston Bourret""",infirmier diplômé d'État,,"Centre hospitalier territorial ""Gaston Bourret""",CHT,,2024-11-14,,
+54223,ASSISTANT(E) DENTAIRE,,,24-1538,2024-10-10,"Centre hospitalier territorial ""Gaston Bourret""",aide-soignant,,"Centre hospitalier territorial ""Gaston Bourret""",CHT,,2024-10-31,,
+54514,Auxiliaire de puériculture en pédiatrie et néonatalogie,,,24-1598,2024-10-24,"Centre hospitalier territorial ""Gaston Bourret""",auxiliaire de puériculture,,"Centre hospitalier territorial ""Gaston Bourret""",CHT,,2024-11-14,,
+54513,1 Diététicien(ne),,,24-1597,2024-10-24,"Centre hospitalier territorial ""Gaston Bourret""",diététicien,,"Centre hospitalier territorial ""Gaston Bourret""",CHT,,2024-11-14,,
+53056,Administrateur Réseau et Datacenter,Administrateur système informatique,M1801-3,24-53056/MPRH,2024-09-18,Nouvelle-Calédonie,ingénieur,,Direction du numérique et de la modernisation,DINUM,NOUMEA,2024-11-14,"L'administrateur réseau et datacenter assure l'administration, la gestion et le maintien en condition opérationnelle et de sécurité des réseaux, des infrastructures et du système de sauvegarde. Il contribue à leur évolution et à leur amélioration en fonction du schéma directeur.",georges.wapae@gouv.nc
+52572,Chef(fe) du service ressources,"Responsable administratif, administratif de gestion, administratif et financier",M1205-1,24-52572/MPRH,2024-07-11,Nouvelle-Calédonie,attaché,,Direction du numérique et de la modernisation,DINUM,Nouméa,2024-11-21,"Rattaché à la direction, le(la) chef(fe) de service ""Ressources"" a pour missions d'animer et d'encadrer le service en garantissant son fonctionnement optimal et  sa performance en fonction des objectifs stratégiques fixés en matière RH, budgétaire, financière et gestion des achats de la direction.",georges.wapae@gouv.nc
+53772,"Ingénieur Mobilité, Efficacité et Sobriété énergétique","Ingénieur d'études (béton armé, BTP, constructions métalliques, de prix BTP, en génie climatique-électrique)",F1106-5,24-53772/MPRH,2024-10-06,Nouvelle-Calédonie,ingénieur,,"Direction de l'industrie, des mines et de l'énergie",DIMENC,Nouméa,2024-11-07,"Sous l'autorité du chef de service, l'agent a pour missions de mettre en place et piloter la stratégie du gouvernement sur les 3 thématiques suivantes :
+I. Mobilité
+
+II. Efficacité énergétique des équipements et des bâtiments
+
+III. Sobriété énergétique
+Pour ces 3 thématiques, l'agent devra :
+- Elaborer et suivre les cadres réglementaires en concertation avec les acteurs du secteur
+- Gérer les budgets alloués à ces thématiques à l'échelle du gouvernement
+- Assurer la coordination et la cohérence des actions à mettre en place par le gouvernement et ses directions et l'ACE 
+- Au besoin, assurer la communication des dispositifs mis en place
+- Assurer une veille réglementaire continue 
+- Réaliser une évaluation continue des réglementations en place",nicolas.favray@gouv.nc
+52889,Chef de service éducatif - FAEP,Educateur chef de service socioéducatif,K1207-2,24-52889/MPRH,2024-07-28,Nouvelle-Calédonie,cadre socio-éducatif,,Direction de la protection judiciaire de l'enfance et de la jeunesse,DPJEJ,PAITA,2024-11-07,"Sous l'autorité du chef de service de l'établissement de placement judiciaire, le chef de service éducatif est en charge de l'animation pédagogique et administrative de son unité. Il garantit la prise en charge des mineurs faisant l'objet de mesures judiciaires au titre de l'ordonnance du 2 février 1945 ou des articles 375 et suivants du code civil.
+
+Le chef de service éducatif est responsable de la coordination du suivi judiciaire des mineurs pris en charge et de leur contrôle. Il rend compte de l'exécution des missions confiées, de l'utilisation des moyens, et des actions menées. Il est garant de l'action éducative mise en œuvre.",jena.bouteille@gouv.nc
+53896,Contrôleur du travail,"Inspecteur (du travail en agriculture, du travail et de l'emploi)",K1502-6,24-53896/MPRH,2024-10-10,Nouvelle-Calédonie,rédacteur,2024-11-03,"Direction du travail, de l'emploi et de la formation professionnelle",DTEFP,Koné,2024-10-31,"Le contrôleur est chargé principalement d'assurer le contrôle du respect de la législation du travail et constate d'éventuelles infractions, d'agir en matière de prévention des risques professionnels et d'amélioration des conditions de travail et des relations sociales.",gundo.folz@gouv.nc
+54105,Directeur(trice) de la communication,,,24-1479,2024-10-03,Province Sud,attaché,,Province Sud,PVS,,2024-10-31,,
+53921,Assistant(e) social(e) de secteur,,,24-1441,2024-09-19,Province Nord,assistant socio-éducatif,,Province Nord,PVN,,2024-11-14,,
+53913,Psychomotricien,,,24-1433,2024-09-19,Province Nord,psychomotricien,,Province Nord,PVN,,2024-11-14,,
+53119,Sage-femme,,,24-1238,2024-08-01,Province Nord,sage femme,,Province Nord,PVN,,2024-11-07,,
+54435,Médecin CMS Ouégoa,,,24-1596,2024-10-17,Province Nord,médecin de santé publique,,Province Nord,PVN,,2024-11-07,,
+54235,Médecin,,,24-1549,2024-10-10,Province Nord,médecin de santé publique,,Province Nord,PVN,,2024-10-31,,
+54236,GESTIONNAIRE RESSOURCES HUMAINES  DE L'ENSEIGNEMENT PRIVE,,,24-1550,2024-10-10,Vice-rectorat,rédacteur,,Vice-rectorat,VR,,2024-10-31,,
+53998,5 MASSEURS KINESITHERAPEUTES,,,24-1470,2024-09-26,"Centre hospitalier territorial ""Gaston Bourret""",masseur kinésithérapeute,,"Centre hospitalier territorial ""Gaston Bourret""",CHT,,2024-10-31,,
+53256,Vérificateur,"Inspecteur (principal, vérificateur des impôts)",K1503-1,24-53256/MPRH,2024-09-12,Nouvelle-Calédonie,attaché,,Direction des services fiscaux,DSF,Nouméa,2024-11-14,"Sous l'autorité du chef de service, le vérificateur mène des opérations de contrôle consistant à vérifier la cohérence entre les déclarations fiscales souscrites et la comptabilité des entreprises ou les revenus des particuliers. L'exercice de la mission concerne l'ensemble du territoire de la Nouvelle-Calédonie, le vérificateur peut donc être amené à effectuer des déplacements.",pierre.bouquillon@gouv.nc
+54229,Technicien supérieur en informatique,,,24-1544,2024-10-10,,technicien,,,,,2024-10-31,,
+54379,RESPONSABLE FINANCIER,,,24-1594,2024-10-17,,rédacteur,,,,,2024-11-07,,
+54538,Chef de centre d'incendie et de secours (CIS),,,24-1621,2024-10-24,,lieutenant,,,,,2024-11-14,,
+54372,2 Sapeurs-pompiers professionnels (C),,,24-1587,2024-10-17,,sergent,,,,,2024-11-07,,
+54354,Infirmier(ère) à l'UPASS de Yaté,,,24-1569,2024-10-17,Province Sud,infirmier en soins généraux,,Province Sud,PVS,,2024-11-07,,
+54356,Infirmier(ère) au centre médico-social de Thio,,,24-1571,2024-10-17,Province Sud,infirmier diplômé d'État,,Province Sud,PVS,,2024-11-07,,
+54216,Chef de projet digital,,,24-1531,2024-10-10,Province Sud,attaché,,Province Sud,PVS,,2024-10-31,,
+54214,Référent sécurité et projets transversaux du système d'information,,,24-1529,2024-10-10,Province Sud,ingénieur,,Province Sud,PVS,,2024-10-31,,
+54374,Chef de projet numérique éducatif,,,24-1589,2024-10-17,Province Sud,ingénieur,,Province Sud,PVS,,2024-11-07,,
+53303,Développeur d'applications full stack - Chef projet informatique,,,24-1279,2024-08-15,Province Sud,ingénieur,,Province Sud,PVS,,2024-10-31,,
+54361,Chargé(e) d'études mobilité durable,,,24-1576,2024-10-17,Province Sud,ingénieur,,Province Sud,PVS,,2024-11-07,,
+54368,Responsable du bureau technique et des publics du Parc  Provincial Zoologique et Forestier Michel Corbasson,,,24-1583,2024-10-17,Province Sud,ingénieur,,Province Sud,PVS,,2024-11-07,,
+54347,Responsable du département de Bourail au SPPAT,,,24-1562,2024-10-17,Province Sud,ingénieur,,Province Sud,PVS,,2024-11-07,,
+52597,Assistant(e) social(e) de polyvalence de secteur,,,24-1045,2024-06-27,Province Sud,assistant socio-éducatif,,Province Sud,PVS,,2024-11-07,,
+54364,Adjoint d'éducation polyvalent (poste ouvert exclusivement  aux candidatures masculines - dortoirs garçons),,,24-1579,2024-10-17,Province Sud,adjoint administratif,,Province Sud,PVS,,2024-11-07,,
+54348,Régisseur(euse) et assistant(e) administratif(ve) et financier(ière) au centre d'activités nautiques (CAN),,,24-1563,2024-10-17,Province Sud,adjoint administratif,,Province Sud,PVS,,2024-11-07,,
+54349,Conseiller à l'emploi et au logement,,,24-1564,2024-10-17,Province Sud,rédacteur,,Province Sud,PVS,,2024-11-07,,
+54357,Gestionnaire des marchés publics,,,24-1572,2024-10-17,Province Sud,attaché,,Province Sud,PVS,,2024-11-07,,
+54355,"Chef de service du ""pôle ressources""",,,24-1570,2024-10-17,Province Sud,attaché,,Province Sud,PVS,,2024-11-07,,
+54365,Adjoint d'éducation (poste ouvert exclusivement aux candidatures  masculines pour dortoir garçons),,,24-1580,2024-10-17,Province Sud,adjoint d'éducation,,Province Sud,PVS,,2024-11-07,,
+53353,Médecin à l'UPASS de Thio,,,24-1323,2024-08-15,Province Sud,médecin de santé publique,,Province Sud,PVS,,2024-10-31,,
+53349,Médecin à l'UPASS de Bourail,,,24-1319,2024-08-15,Province Sud,médecin de santé publique,,Province Sud,PVS,,2024-10-31,,
+52599,Médecin à l'UPASS de Thio,,,24-1047,2024-06-27,Province Sud,médecin de santé publique,,Province Sud,PVS,,2024-11-07,,
+53354,Médecin à l'UPASS de l'île des Pins,,,24-1324,2024-08-15,Province Sud,médecin de santé publique,,Province Sud,PVS,,2024-10-31,,
+52303,Médecin itinérant en province Sud,,,24-0985,2024-06-06,Province Sud,médecin de santé publique,,Province Sud,PVS,,2024-11-14,,
+54363,"Psychologue scolaire dans la 6ème circonscription (Bourail, La Foa)",,,24-1578,2024-10-17,Province Sud,psychologue,,Province Sud,PVS,,2024-11-07,,
+54540,Chef de service patrimoine immobilier,,,24-1622,2024-10-24,Province Nord,ingénieur,,Province Nord,PVN,,2024-11-14,,
+54377,Chef du service topographique et foncier,,,24-1592,2024-10-17,Province Nord,ingénieur,,Province Nord,PVN,,2024-11-07,,
+54548,Juriste Environnement,,,24-1629,2024-10-24,Province Nord,attaché,,Province Nord,PVN,,2024-11-14,,
+54551,Adjoint d'éducation   (Dortoir garçons),,,247-1632,2024-10-24,Province Nord,adjoint d'éducation,,Province Nord,PVN,,2024-11-14,,
+54375,INFIRMIER EN SOINS GÉNÉRAUX,,,24-1590,2024-10-17,Province Nord,infirmier en soins généraux,,Province Nord,PVN,,2024-11-07,,
+54541,02 Médecins  - Houailou,,,24-1623,2024-10-24,Province Nord,médecin de santé publique,,Province Nord,PVN,,2024-11-14,,
+54542,02 Médecins  - Ponérihouen,,,24-1624,2024-10-24,Province Nord,médecin de santé publique,,Province Nord,PVN,,2024-11-14,,
+54378,Médecin du travail,,,24-1593,2024-10-17,Province Nord,médecin de santé publique,,Province Nord,PVN,,2024-11-07,,
+54543,Médecin  - Poum,,,24-1625,2024-10-24,Province Nord,médecin de santé publique,,Province Nord,PVN,,2024-11-14,,
+54227,Adjoint-gestionnaire dans un établissement public d'enseignement de la Nouvelle-Calédonie,,,24-1542,2024-10-10,Vice-rectorat,attaché,,Vice-rectorat,VR,,2024-10-31,,
+54224,Bibliothécaire,,,24-1539,2024-10-10,Bibliothèque Bernheim,assistant de conservation,,Bibliothèque Bernheim,BBernheim,,2024-10-31,,
+54352,1 Infirmier (ère) Hygiéniste Hospitalier,,,24-1567,2024-10-17,Centre hospitalier du Nord,infirmier en soins généraux,,Centre hospitalier du Nord,CHN,,2024-11-07,,
+54338,1 INFIRMIER (ERE),,,24-1554,2024-10-17,Centre hospitalier du Nord,infirmier en soins généraux,,Centre hospitalier du Nord,CHN,,2024-11-07,,
 54557,Coordonnateur administratif et financier,,,24-1638,2024-10-24,Caisse des écoles de Koumac,rédacteur d'administration générale,,Caisse des écoles de Koumac,CDE Koumac,,2024-11-14,,
 54559,1 Infirmier(e) en soins généraux - pédiatrie,,,24-1640,2024-10-24,"Centre hospitalier territorial ""Gaston Bourret""",infirmier en soins généraux,,"Centre hospitalier territorial ""Gaston Bourret""",CHT,,2024-11-14,,
 54537,2 Infirmier(e)s en soins généraux - urgences adultes,,,24-1620,2024-10-24,"Centre hospitalier territorial ""Gaston Bourret""",infirmier en soins généraux,,"Centre hospitalier territorial ""Gaston Bourret""",CHT,,2024-11-14,,
@@ -227,38 +262,3 @@ Le chef de service adjoint sera notamment chargé de la performance du système 
 Il en assume la responsabilité technique et opérationnelle dans le respect du budget et des délais. Il assure la maintenance pour les applications en production.",georges.wapae@gouv.nc
 53834,Responsable de la sécurité des systèmes d'information (RSSI),"Responsable sécurité des systèmes d'information, sécurité informatique",M1802-2,24-53834/MPRH,2024-10-06,Nouvelle-Calédonie,ingénieur,,Direction du numérique et de la modernisation,DINUM,Nouméa,2024-11-21,"Rattaché directement à la direction de la DINUM, le responsable de la sécurité des systèmes d'information (RSSI) définit et développe la politique de sécurité de l'information du gouvernement de la Nouvelle-Calédonie. Il est garant de sa mise en œuvre et en assure le suivi, en lien avec la direction, les opérateurs cybersécurité, les équipes techniques, les directions du gouvernement et les partenaires extérieurs ( Etat/ANSSI, Associations, autres collectivités).  Il assure en outre, en lien avec la direction, la coordination fonctionnelle des actions du SOC et des autres acteurs des outils de sécurité.",charles.biondi@gouv.nc
 53379,Technicien entretien routier,"Conducteur de travaux (du bâtiment, du BTP, en constructions métalliques, en électricité, génie civil, gros œuvre)",F1201-2,24-53379/MPRH,2024-08-22,Nouvelle-Calédonie,technicien,,"Direction des infrastructures, de la topographie et des transports terrestres",DITTT,Nouméa,2024-11-07,"Sous l'autorité hiérarchique du chef du BEEX, le technicien participe au maintien des niveaux de service du réseau routier territorial. Il assure la maîtrise d'oeuvre et/ou la conduite d'opérations des travaux d'entretien et d'exploitation du réseau routier (routes et ouvrages d'art), la gestion et le suivi des crédits affectés aux opérations dont il a la charge, le renseignement des tableaux de bord et des indicateurs liés aux opérations dont il a la charge, l'évaluation régulière des objectifs fixés par le chef de bureau.",steeve.pelo@gouv.nc
-54118,Assistant(e) social(e) de polyvalence de secteur,,,24-1492,2024-10-03,Province Sud,assistant socio-éducatif,,Province Sud,PVS,,2024-11-21,,
-53934,Chargé(e) d'études en contrôle de gestion,,,24-1454,2024-09-19,Province Sud,attaché,,Province Sud,PVS,,2024-11-07,,
-51261,Infirmier(ère) au centre médico-social de Thio,,,24-0613,2024-03-21,Province Sud,infirmier en soins généraux,2024-08-31,Province Sud,PVS,,2024-11-07,,
-54108,Orthophoniste au Service de Prévention et de Promotion de la Santé,,,24-1482,2024-10-03,Province Sud,orthophoniste,,Province Sud,PVS,,2024-10-31,,
-52814,3 INFIRMIERS EN SOINS GENERAUX,,,24-1125,2024-07-11,Province Nord,infirmier en soins généraux,,Province Nord,PVN,,2024-11-07,,
-53242,INFIRMIER EN SOINS GENERAUX,,,24-1254,2024-08-08,Province Nord,infirmier en soins généraux,,Province Nord,PVN,,2024-11-14,,
-54397,Médecin,,,24-1595,2024-10-17,Province Nord,médecin de santé publique,,Province Nord,PVN,,2024-11-07,,
-53717,Directeur,,,24-1395,2024-09-05,Province Nord,emploi fonctionnel,,Province Nord,PVN,,2024-11-14,,
-54005,Un ou une responsable du pôle « ingénierie documentaire »,,,24-1477,2024-09-26,Université de Nouvelle-Calédonie,Attaché de conservation - conservateur,,Université de Nouvelle-Calédonie,UNC,,2024-10-26,,
-54237,Concepteur développeur d'applications,,,24-1551,2024-10-10,Office des postes et télécommunications,ingénieur,,Office des postes et télécommunications,OPT,,2024-10-31,,
-53996,2 MANIPULATEURS EN ELECTRORADIOLOGIE,,,24-1468,2024-09-26,"Centre hospitalier territorial ""Gaston Bourret""",manipulateur en électroradiologie,,"Centre hospitalier territorial ""Gaston Bourret""",CHT,,2024-10-31,,
-53822,cadre de santé CMP Galliéni - AUP,,,24-1426,2024-09-12,"Centre hospitalier spécialisé ""Albert Bousquet""",cadre de santé,,"Centre hospitalier spécialisé ""Albert Bousquet""",CHS,,2024-11-07,,
-54531,1 gestionnaire ressources humaines,,,24-1614,2024-10-24,,rédacteur d'administration générale,,,,,2024-11-14,,
-54232,Assistant/e comptable et RH,,,24-1547,2024-10-10,,adjoint administratif,,,,,2024-10-31,,
-54530,1 chef de salle,,,24-1613,2024-10-24,,adjudant,,,,,2024-11-14,,
-54528,Ouvrier polyvalent technique Cellule Logistique,,,24-1611,2024-10-24,,ACDP-Grille rémunération 2-Diplôme niveau V,,,,,2024-11-14,,
-54366,Mécanicien,,,24-1581,2024-10-17,,ACDP-Grille rémunération 2-Diplôme niveau V,,,,,2024-11-07,,
-54215,Chef de projet Data et IA,,,24-1530,2024-10-10,Province Sud,ingénieur,,Province Sud,PVS,,2024-10-31,,
-54367,Travailleur social : mi-temps référent dispositif mineurs en errance  et mi-temps bureau de l'accueil familial Sud,,,24-1582,2024-10-17,Province Sud,assistant socio-éducatif,,Province Sud,PVS,,2024-11-07,,
-54360,Chargé d'accueil et d'information,,,24-1575,2024-10-17,Province Sud,adjoint administratif,,Province Sud,PVS,,2024-11-07,,
-54353,Secrétaire du service de protection de l'enfance,,,24-1568,2024-10-17,Province Sud,adjoint administratif,,Province Sud,PVS,,2024-11-07,,
-54519,Acheteur public,,,24-1603,2024-10-24,Province Sud,rédacteur,,Province Sud,PVS,,2024-11-14,,
-54345,Responsable du centre d'accueil de Poé (CAP)  et de l'espace culturel de DEVA (ECD),,,24-1560,2024-10-17,Province Sud,conseiller des APS,,Province Sud,PVS,,2024-11-07,,
-53520,Médecin du CMS de Dumbéa sur mer  - UPASS Grande couronne - Agglomération,,,24-1331,2024-08-29,Province Sud,médecin de santé publique,,Province Sud,PVS,,2024-11-14,,
-53351,Médecin à l'UPASS de La Foa,,,24-1321,2024-08-15,Province Sud,médecin de santé publique,,Province Sud,PVS,,2024-10-31,,
-52172,Assistant(e) social(e) de secteur,,,24-0954,2024-05-23,Province Nord,assistant socio-éducatif,,Province Nord,PVN,,2024-11-07,,
-54552,Chef du service administratif et financier,,,24-1633,2024-10-24,Province Nord,attaché,,Province Nord,PVN,,2024-11-14,,
-54550,Adjoint d'éducation (dortoir garçon),,,24-1631,2024-10-24,Province Nord,adjoint d'éducation,,Province Nord,PVN,,2024-11-14,,
-54376,2 INFIRMIERS EN SOINS GÉNÉRAUX,,,24-1591,2024-10-17,Province Nord,infirmier en soins généraux,,Province Nord,PVN,,2024-11-07,,
-54545,Médecin - Voh,,,24-1627,2024-10-24,Province Nord,médecin de santé publique,,Province Nord,PVN,,2024-11-14,,
-54544,Médecin  - Bélep,,,24-1626,2024-10-24,Province Nord,médecin de santé publique,,Province Nord,PVN,,2024-11-14,,
-54341,Conseiller Technique du service social en faveur des élèves,,,24-1556,2024-10-17,Vice-rectorat,cadre socio-éducatif,,Vice-rectorat,VR,,2024-11-07,,
-54230,GESTIONNAIRE RESSOURCES HUMAINES  DE L'ENSEIGNEMENT PRIVÉ,,,24-1545,2024-10-10,Vice-rectorat,adjoint administratif,,Vice-rectorat,VR,,2024-10-31,,
-54555,02 INFIRMIERS (ERES),,,24-1636,2024-10-24,Centre hospitalier du Nord,infirmier en soins généraux,,Centre hospitalier du Nord,CHN,,2024-11-14,,
-54556,01 Technicien d'Analyses en Biologie Médicale,,,24-1637,2024-10-24,Centre hospitalier du Nord,technicien de laboratoire,,Centre hospitalier du Nord,CHN,,2024-11-14,,
