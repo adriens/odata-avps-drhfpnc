@@ -1,59 +1,90 @@
 id_avp,libelle_poste,rome_code_libelle,rome_code,numero_avp,date_mise_en_ligne,nom_collectivite_entreprise,libelle_corps_grade,date_poste_a_pourvoir,libelle_direction_entreprise,acronyme_entreprise,lieu_exercice_travail,date_cloture_avp,missions_emploi,contact_email
-54527,Gestionnaire des carrières et des rémunérations,,,24-1610,2024-10-24,Caisse des écoles de Nouméa,rédacteur d'administration générale,,Caisse des écoles de Nouméa,CDE Nouméa,,2024-11-21,,
-54172,2 Chargés de communication,,,24-1520,2024-10-31,Office des postes et télécommunications,cadre d'exploitation,,Office des postes et télécommunications,OPT,,2024-11-21,,
-54394,Régisseur de caisse,"Régisseur d'avances, de recettes",K1504-1,24-54394/MPRH,2024-11-11,Nouvelle-Calédonie,rédacteur,,Direction des affaires économiques,DAE,Nouméa,2024-11-28,"Le service de l'enregistrement des entreprises assure notamment : 
-- l'élaboration et l'application de la réglementation applicable aux professions commerciales soumises à autorisation ;
-- l'instruction des demandes d'agréments des entreprises et intermédiaires en assurances ;
-- l'instruction des demandes d'agréments des professions commerciales soumises à autorisation ;
-- les inspections et le contrôle des entreprises et intermédiaires en assurances ;
-- l'accueil et l'information des professionnels ;
-- l'instruction des dossiers qui lui sont confiés.
-
-Le service de l'enregistrement des entreprises est également en charge de la gestion du registre du commerce et des sociétés, et assure notamment à ce titre :
-- la tenue de la régie de recettes du registre du commerce et des sociétés et des téléservices associés ; 
-- l'accueil et renseignement du public ; 
-- la gestion de toutes formalités relevant du registre (immatriculation des sociétés, modifications, radiations).",gloria.turbatte@gouv.nc
-53718,Gestionnaire comptable,"Gestionnaire comptable, Technicien comptable",M1203-3,24-53718/MPRH,2024-11-11,Nouvelle-Calédonie,rédacteur,2024-12-31,"Direction de l'industrie, des mines et de l'énergie",DIMENC,Nouméa,2024-11-28,"Sous l'autorité du chef de service, le gestionnaire comptable assure le traitement comptable et procède à l'exécution des dépenses et recettes courantes. Il participe aux préparations budgétaires de la direction (BP/CA/BS).
-Dans le cadre de ses missions, il assure la relation avec les usagers, les fournisseurs et collabore avec l'ensemble des services de la DIMENC.
-De plus, il procède également au contrôle comptable des conventions et des arrêtés à incidences financières de la direction.",jean-yves.saussol@gouv.nc
+55016,Intervenant en éducation et promotion de la santé - programme  addictologie,,,24-1810,2024-11-21,Agence sanitaire et sociale,assistant socio-éducatif,,Agence sanitaire et sociale,ASS-NC,,2024-12-12,,
+55011,Chef de service de l'audit interne de la Direction générale de l'OPT-NC,,,24-1807,2024-11-21,Office des postes et télécommunications,cadre d'exploitation,,Office des postes et télécommunications,OPT,,2024-12-12,,
+55018,Chef de cellule hotline soutien SI et pratiques métiers de la direction de la distribution,,,24-1812,2024-11-21,Office des postes et télécommunications,contrôleur,,Office des postes et télécommunications,OPT,,2024-12-12,,
+54512,Psychologue à mi-temps,"Psychologue, Psychanalyste, Psychothérapeute",K1104-2,24-54512/MPRH,2024-11-21,Nouvelle-Calédonie,psychologue,,Direction de la sécurité civile et de la gestion des risques,DSCGR,NOUMEA,2024-12-12,"Le bureau du soutien médical (BSM) assure trois missions principales :
+- l'aptitude médicale des personnels sapeurs-pompiers de la direction et des communes conventionnées ;
+- la couverture sanitaire opérationnelle ;
+- les actions de prévention et de formation.
+Le psychologue participe à la politique de prévention de la santé mentale au travail au profit des sapeurs-pompiers de la Nouvelle Calédonie, dans le respect du code de déontologie.
+Il conçoit, élabore et met en œuvre :
+1/ des actions préventives : formations des personnels de santé et des sapeurs-pompiers ;
+2/ des interventions collectives post-traumatiques ;
+3/ des entretiens individuels.",christian.decanlers@gouv.nc
+54673,Médecin-inspecteur ou médecin-conseil,"Médecin (Inspecteur de Santé Publique -MISP-, inspecteur de la santé, conseil)",K1402-4,24-54673/MPRH,2024-11-17,Nouvelle-Calédonie,médecin de santé publique,,Direction des affaires sanitaires et sociales,DASS,Nouméa,2025-01-02,"Sous la responsabilité du directeur et du directeur adjoint, le médecin inspecteur intervient en matière :
+- d'inspection et de contrôle des établissements et services relevant de la délibération modifiée n°35 CP du 7 octobre 2010 relative à l'organisation de l'action sociale et médico-sociale (établissements et services sociaux et médico-sociaux) ;
+- d'accompagnement auprès des établissements du secteur social et médico-social (internalisation des soins) ;
+- de conseil médical dans les domaines relevant du champ de compétence du service.",direction.dass@gouv.nc
+54697,Educateur spécialisé en milieu ouvert,"Educateur (de la protection judiciaire de la jeunesse, en milieu ouvert, socioéducatif)",K1207-1,24-54697/MPRH,2024-11-17,Nouvelle-Calédonie,assistant socio-éducatif,,Direction de la protection judiciaire de l'enfance et de la jeunesse,DPJEJ,NOUMEA,2024-12-19,"Sous l'autorité du chef de Service de Milieu Ouvert et d'Hébergement Diversifié (SEMOHD) et du chef de service éducatif de l'unité UEMO QM/Sud de la protection judiciaire de l'enfance et de la jeunesse, l'éducateur en milieu ouvert intervient auprès d'un public mineur âgé de 13 à 21 ans dans le cadre d'un mandat judiciaire.",rene.waetheane@gouv.nc
+54494,Assistant(e) comptable et administratif(ve),"Gestionnaire comptable, Technicien comptable",M1203-3,24-54494/MPRH,2024-11-25,Nouvelle-Calédonie,adjoint administratif,,"Direction des achats, du patrimoine et des moyens",DAPM,Nouméa,2024-12-12,"Sous l'autorité du chef du service exploitation, maintenance et moyens, l'assistant(e) comptable et administratif(ve) participe à la gestion du service. Il/elle vient en soutien administratif et financier aux activités du service.",francoise.bernard@gouv.nc
 53056,Administrateur Réseau et Datacenter,Administrateur système informatique,M1801-3,24-53056/MPRH,2024-09-18,Nouvelle-Calédonie,ingénieur,,Direction du numérique et de la modernisation,DINUM,NOUMEA,2024-12-12,"L'administrateur réseau et datacenter assure l'administration, la gestion et le maintien en condition opérationnelle et de sécurité des réseaux, des infrastructures et du système de sauvegarde. Il contribue à leur évolution et à leur amélioration en fonction du schéma directeur.",georges.wapae@gouv.nc
-52572,Chef(fe) du service ressources,"Responsable administratif, administratif de gestion, administratif et financier",M1205-1,24-52572/MPRH,2024-07-11,Nouvelle-Calédonie,attaché,,Direction du numérique et de la modernisation,DINUM,Nouméa,2024-11-21,"Rattaché à la direction, le(la) chef(fe) de service ""Ressources"" a pour missions d'animer et d'encadrer le service en garantissant son fonctionnement optimal et  sa performance en fonction des objectifs stratégiques fixés en matière RH, budgétaire, financière et gestion des achats de la direction.",georges.wapae@gouv.nc
-54414,Chargé.e de mission Organisation et Gouvernance - Préfiguration de l'IGS,"Responsable administratif, administratif de gestion, administratif et financier",M1205-1,24-54414/MPRH,2024-11-10,Nouvelle-Calédonie,attaché,,Secrétariat général du gouvernement de la Nouvelle-Calédonie,SGGNC,Nouméa,2024-11-28,"Concourir, dans une démarche transversale et partenariale, à la mise en œuvre de la future Inspection Générale des Services (IGS). Le titulaire contribue à la définition des modèles d'organisation adaptés aux besoins de l'IGS, en tenant compte des meilleures pratiques d'inspection dans le secteur public. Il conduira les expérimentations utiles à l'élaboration de mécanismes de suivi, d'évaluation et de gestion des risques de nature à assurer l'efficience de la future IGS.",leon.wamytan@gouv.nc
-54252,Gestionnaire recrutement,"Gestionnaire administratif ressources humaines, de l'administration du personnel",M1501-1,24-54252/MPRH,2024-10-31,Nouvelle-Calédonie,rédacteur,,Direction des ressources humaines et de la fonction publique de Nouvelle-Calédonie,DRHFPNC,Nouméa,2024-11-21,"Le gestionnaire recrutement joue un rôle clé dans la mise en oeuvre du processus de recrutement au sein de la fonction publique et de la collectivité Nouvelle-Calédonie. Ses principales responsabilités incluent la gestion des avis de vacance de postes, le suivi des lauréats de concours et des recrutements sur titre, l'organisation et la coordination des commissions de recrutement, ainsi que la mise en œuvre complète du processus de recrutement au sein de sa collectivité.",rodolphe.ponsard-goiran@gouv.nc
-54785,1 chargé de la stratégie exploitation,,,24-1700,2024-11-07,,ingénieur,,,,,2024-11-28,,
-54872,2 Assistants administratifs,,,24-1723,2024-11-14,,adjoint administratif,,,,,2024-12-05,,
+54913,Gestionnaire logistique et informatique,Logisticien,N1303-1,24-54913/MPRH,2024-11-25,Nouvelle-Calédonie,adjoint administratif,,"Direction des achats, du patrimoine et des moyens",DAPM,Nouméa,2024-12-12,"Placé sous l'autorité du chef de bureau, le gestionnaire logistique et informatique a en charge la gestion de la logistique et assure le rôle de référent informatique de la direction.",jennifer.vassilev@gouv.nc
+52572,Chef(fe) du service ressources,"Responsable administratif, administratif de gestion, administratif et financier",M1205-1,24-52572/MPRH,2024-07-11,Nouvelle-Calédonie,attaché,,Direction du numérique et de la modernisation,DINUM,Nouméa,2024-12-26,"Rattaché à la direction, le(la) chef(fe) de service ""Ressources"" a pour missions d'animer et d'encadrer le service en garantissant son fonctionnement optimal et  sa performance en fonction des objectifs stratégiques fixés en matière RH, budgétaire, financière et gestion des achats de la direction.",georges.wapae@gouv.nc
+54799,Chef du bureau des permis de conduire,"Responsable (de groupe d'agences bancaires, de service de caisse régionale bancaire, d'exploitation bancaire)",C1207-2,24-54799/MPRH,2024-11-17,Nouvelle-Calédonie,ingénieur,,"Direction des infrastructures, de la topographie et des transports terrestres",DITTT,Nouméa,2024-12-05,"Sous l'autorité du chef de service, le chef du bureau des permis de conduire organise et supervise le travail du bureau dans la mise en œuvre de la réglementation en vigueur en matière de délivrance des titres de permis de conduire.
+Il participe à la refonte réglementaire ou informatique dans le domaine de l'éducation et de la sécurité routière .",patrick.mahoux@gouv.nc
+53856,Approvisionneur achat public,"Acheteur (import, junior, public, approvisionneur, industriel, international)",M1101-1,24-53856/MPRH,2024-11-25,Nouvelle-Calédonie,rédacteur,,"Direction des achats, du patrimoine et des moyens",DAPM,Nouméa,2024-12-12,"Sous l'autorité du chef du bureau de l'achat public, l'approvisionneur achats publics assiste les acheteurs de l'équipe dans la gestion de leurs dossiers et plus spécialement dans le cadre de la stratégie de suivi qualité. Il organise et gère les procédures des marchés transversaux et les groupements de commandes. Il est l'interlocuteur support des directions de la collectivité et les accompagne dans leur approvisionnement de fourniture et ou de suivis de prestation de service.
+
+L'approvisionneur assure ses missions dans le respect des objectifs fixés et des engagements pris auprès des directions et des établissements publics de la Nouvelle-Calédonie.",cynthia.galinie@gouv.nc
+54812,Chargé de projet agrément des matériaux et procédés de construction,"Ingénieur d'études (béton armé, BTP, constructions métalliques, de prix BTP, en génie climatique-électrique)",F1106-7,24-54812/MPRH,2024-11-25,Nouvelle-Calédonie,ingénieur,2024-12-31,"Direction des achats, du patrimoine et des moyens",DAPM,Nouméa,2024-12-12,"Sous l'autorité du chef du pôle référentiel de la construction (RCNC)le chargé de projet agrément des matériaux et procédés de construction a pour missions la gestion et le pilotage de la commission technique d'agrément des matériaux et procédés, des travaux publics et du génie civil de Nouvelle-Calédonie, ainsi que de la commission technique d'agrément des laboratoires. Il promeut les normes RCNC et pilote les prestations techniques du domaine de l'agrément des matériaux et/ou des laboratoires.",djamil.abdelaziz@gouv.nc
+54492,Conseiller SIRH,"Consultant en système d'information, -ERP-, informatique, réseaux informatiques)",M1806-4,24-54492/MPRH,2024-11-24,Nouvelle-Calédonie,ingénieur,,Direction des ressources humaines et de la fonction publique de Nouvelle-Calédonie,DRHFPNC,Nouméa,2024-12-12,"Dans le cadre du renforcement de notre équipe et sous l'impulsion du responsable maitrise d'ouvrage (MOA), le conseiller SIRH a pour mission d'assurer un rôle de conseil et d'assistance auprès des utilisateurs des applicatifs du SIRH de la fonction publique de Nouvelle-Calédonie. Il identifie et conçoit les évolutions des outils en réponse aux contraintes réglementaires ou aux besoins émergents. Il garantit la cohérence et la qualité des applications.",nadine.lespinasse@gouv.nc
+55311,1 gestionnaire de laboratoire d'analyse des eaux,,,24-1896,2024-12-05,,technicien,,,,,2024-12-26,,
+54785,1 chargé de la stratégie exploitation,,,24-1700,2024-11-07,,ingénieur,,,,,2024-12-12,,
+55235,Chargé d'opérations infrastructures,,,24-1876,2024-12-04,Port autonome de Nouvelle-Calédonie,ingénieur,,,,,2024-12-19,,
+55035,Assistant socio-éducatif,,,24-1762,2024-11-21,,assistant socio-éducatif,,,,,2024-12-12,,
+55333,1 Agent gestionnaire polyvalent,,,24-1916,2024-12-05,,adjoint administratif,,,,,2024-12-26,,
 54873,Chargé de missions « protocole » / « logistique » et « patrimoine »,,,24-1724,2024-11-14,,adjoint administratif,,,,,2024-12-05,,
-54623,Chef de service,,,24-1651,2024-10-31,,attaché d'administration générale,,,,,2024-11-21,,
-54694,1 attaché,,,24-1682,2024-10-31,,attaché d'administration générale,,,,,2024-11-21,,
-54624,Vérificateur (rice),,,24-1652,2024-10-31,,attaché,,,,,2024-11-21,,
-54792,1 GARDE CHAMPETRE,,,24-1704,2024-11-07,,ACDP-Grille rémunération 1-Sans diplôme,,,,,2024-11-28,,
-54894,Développeur d'applications full stack - Chef projet informatique,,,24-1740,2024-11-14,Province Sud,ingénieur,,Province Sud,PVS,,2024-12-05,,
+55161,1 Secrétaire,,,24-1829,2024-11-28,,adjoint administratif,,,,,2024-12-19,,
+55150,Agent d'accueil polyvalent à l'état civil,,,24-1856,2024-11-28,,adjoint administratif,,,,,2024-12-19,,
+55324,1 coordinateur administratif,,,24-1908,2024-12-05,,rédacteur d'administration générale,,,,,2024-12-26,,
+54623,Chef de service,,,24-1651,2024-10-31,,attaché d'administration générale,,,,,2024-12-05,,
+55164,5 Femmes de service,,,24-1832,2024-11-28,,Convention collective des services publics,,,,,2024-12-19,,
+54980,ADJOINT ADMINISTRATIF,,,24-1754,2024-11-21,,adjoint administratif,,,,,2024-12-12,,
+54983,Assistant administratif,,,24-1759,2024-11-21,,adjoint administratif,,,,,2024-12-12,,
+54981,Adjoint au Chef de Brigade de police municipale,,,24-1757,2024-11-21,,Gradés de la Police Municipale,,,,,2024-12-12,,
+55176,Coordinateur(trice) des activités éducatives,,,24-1845,2024-11-28,,animateur socio-éducatif,,,,,2024-12-19,,
+55177,Animateur polyvalent et technique,,,24-1846,2024-11-28,,animateur socio-éducatif,,,,,2024-12-19,,
+55160,1 Responsable des équipes piscines,,,24-1828,2024-11-28,,éducateur des APS,,,,,2024-12-19,,
+55303,Educateur Sportif,,,24-1888,2024-12-05,,éducateur des APS,,,,,2024-12-26,,
+55078,Administrateur Système Applicatif,,,24-1799,2024-11-21,Province Sud,technicien,,Province Sud,PVS,,2024-12-12,,
+55234,Chef(fe) du service de gestion du personnel et de la rémunération,,,24-1148,2024-12-01,Province Sud,attaché,,Province Sud,PVS,,2024-12-19,,
+55031,Technicien(ne) de Support Helpdesk,,,24-1771,2024-11-21,Province Sud,technicien,,Province Sud,PVS,,2024-12-12,,
+55023,"Administrateur système, spécialisé environnement Windows",,,24-1792,2024-11-21,Province Sud,technicien,,Province Sud,PVS,,2024-12-12,,
+55029,"Développeur d'applications IA, DATA, SIG",,,24-1795,2024-11-21,Province Sud,ingénieur,,Province Sud,PVS,,2024-12-12,,
+54894,Développeur d'applications full stack - Chef projet informatique,,,24-1740,2024-11-14,Province Sud,ingénieur,,Province Sud,PVS,,2025-01-02,,
+55017,Chef du centre de services (chef de service),,,24-1789,2024-11-21,Province Sud,ingénieur,,Province Sud,PVS,,2024-12-12,,
+54991,Administrateur(trice) système,,,24-1770,2024-11-21,Province Sud,ingénieur,,Province Sud,PVS,,2024-12-12,,
+54974,Incident Manager,,,24-1749,2024-11-21,Province Sud,ingénieur,,Province Sud,PVS,,2024-12-12,,
+55308,Expert technique rural - filières d'élevage,,,24-1892,2024-12-05,Province Sud,ingénieur,,Province Sud,PVS,,2024-12-26,,
+55094,Directeur(rice) de la maison de l'enfance de Bourail,,,24-1773,2024-11-21,Province Sud,assistant socio-éducatif,,Province Sud,PVS,,2024-12-12,,
 54861,Travailleur social,,,24-1718,2024-11-14,Province Sud,assistant socio-éducatif,,Province Sud,PVS,,2024-12-05,,
-53921,Assistant(e) social(e) de secteur,,,24-1441,2024-09-19,Province Nord,assistant socio-éducatif,,Province Nord,PVN,,2024-11-28,,
-54646,Chef de service du domaine et du patrimoine,,,24-1672,2024-10-31,Province Nord,attaché,,Province Nord,PVN,,2024-11-21,,
-53913,Psychomotricien,,,24-1433,2024-09-19,Province Nord,psychomotricien,,Province Nord,PVN,,2024-11-28,,
-53119,Sage-femme,,,24-1238,2024-08-01,Province Nord,sage femme,,Province Nord,PVN,,2024-11-21,,
-54435,Médecin CMS Ouégoa,,,24-1596,2024-10-17,Province Nord,médecin de santé publique,,Province Nord,PVN,,2024-11-21,,
-54235,Médecin,,,24-1549,2024-10-10,Province Nord,médecin de santé publique,,Province Nord,PVN,,2024-11-28,,
+55075,Gestionnaire comptable spécialisé,,,24-1826,2024-11-21,Province Sud,rédacteur,,Province Sud,PVS,,2024-12-12,,
+55000,Accompagnateur polyvalent (jour / nuit) au sein de la maison  de l'enfance de Bourail,,,24-1781,2024-11-21,Province Sud,ACDP-Grille rémunération 2-Diplôme niveau V,,Province Sud,PVS,,2024-12-12,,
+55006,Accompagnateur de jour au sein de la maison de l'enfance de Bourail,,,24-1784,2024-11-21,Province Sud,ACDP-Grille rémunération 2-Diplôme niveau V,,Province Sud,PVS,,2024-12-12,,
+55062,"Chargée du suivi des investissements, des contrats de développement et des recettes",,,24-1821,2024-11-21,Province Nord,rédacteur,,Province Nord,PVN,,2024-12-12,,
+54646,Chef de service du domaine et du patrimoine,,,24-1672,2024-10-31,Province Nord,attaché,,Province Nord,PVN,,2024-12-05,,
+55166,Adjoint d'éducation       (dortoir garçon),,,24-1833,2024-11-28,Province Nord,adjoint d'éducation,,Province Nord,PVN,,2024-12-19,,
+55055,INFIRMIER(E) PUERICULTEUR /PUERICULTRICE,,,24-1814,2024-11-21,Province Nord,puéricultrice,,Province Nord,PVN,,2024-12-12,,
+55321,Maitre-nageur sauveteur,,,24-1905,2024-12-05,Province Nord,éducateur des APS,,Province Nord,PVN,,2024-12-26,,
 54875,Infirmier(e) scolaire,,,24-1726,2024-11-14,Vice-rectorat,infirmier en soins généraux,,Vice-rectorat,VR,,2024-12-05,,
-54787,01 INFIRMIER (ERE),,,24-1702,2024-11-07,Centre hospitalier du Nord,infirmier en soins généraux,,Centre hospitalier du Nord,CHN,,2024-11-28,,
-54617,02 INFIRMIERS (ERES),,,24-1646,2024-10-31,Centre hospitalier du Nord,infirmier en soins généraux,,Centre hospitalier du Nord,CHN,,2024-11-21,,
-54618,01 INFIRMIER (ERE),,,24-1647,2024-10-31,Centre hospitalier du Nord,infirmier en soins généraux,,Centre hospitalier du Nord,CHN,,2024-11-21,,
-54615,02 SAGES FEMMEs,,,24-1644,2024-10-31,Centre hospitalier du Nord,sage femme,,Centre hospitalier du Nord,CHN,,2024-11-21,,
-54614,SAGE FEMME,,,24-1643,2024-10-31,Centre hospitalier du Nord,sage femme,,Centre hospitalier du Nord,CHN,,2024-11-21,,
-54622,Médecin,,,24-1650,2024-10-31,Agence sanitaire et sociale,médecin de santé publique,,Agence sanitaire et sociale,ASS-NC,,2024-11-21,,
-54659,1 Médecin itinérant,,,24-1681,2024-10-31,Province des îles Loyauté,médecin de santé publique,,Province des îles Loyauté,PIL,,2024-11-21,,
-54649,4 Médecins,,,24-1675,2024-10-31,Province des îles Loyauté,médecin de santé publique,,Province des îles Loyauté,PIL,,2024-11-21,,
-54781,4 Contrôleurs d'approche,,,24-1696,2024-11-07,Direction de l'aviation civile,ingénieur du contrôle de la navigation aérien,,Direction de l'aviation civile,DAC,,2024-11-28,,
-54784,Un ingénieur ou une ingénieure d'études en développement d'applications et plateformes Web,,,24-1699,2024-11-07,Université de Nouvelle-Calédonie,ingénieur,,Université de Nouvelle-Calédonie,UNC,,2024-11-28,,
+55073,Adjoint-gestionnaire dans un établissement public d'enseignement de la Nouvelle-Calédonie,,,24-1825,2024-11-21,Vice-rectorat,attaché,,Vice-rectorat,VR,,2024-12-12,,
+55316,01 INFIRMIER (ERE),,,24-1900,2024-12-05,Centre hospitalier du Nord,infirmier en soins généraux,,Centre hospitalier du Nord,CHN,,2024-12-26,,
+55315,03 Manipulateurs d'Electroradiologie médicale,,,24-1899,2024-12-05,Centre hospitalier du Nord,manipulateur en électroradiologie,,Centre hospitalier du Nord,CHN,,2024-12-26,,
+55056,01 Infirmier (ère) Hygiéniste Hospitalier,,,24-1815,2024-11-21,Centre hospitalier du Nord,infirmier en soins généraux,,Centre hospitalier du Nord,CHN,,2024-12-12,,
+55313,02 SAGES FEMMES,,,24-1897,2024-12-05,Centre hospitalier du Nord,sage femme,,Centre hospitalier du Nord,CHN,,2024-12-26,,
+55326,Gestionnaire comptable,,,24-1910,2024-12-05,Agence sanitaire et sociale,adjoint administratif,,Agence sanitaire et sociale,ASS-NC,,2024-12-26,,
+54622,Médecin,,,24-1650,2024-10-31,Agence sanitaire et sociale,médecin de santé publique,,Agence sanitaire et sociale,ASS-NC,,2024-12-12,,
+55168,3 infirmiers(ères) en soins généraux,,,24-1837,2024-11-28,Province des îles Loyauté,infirmier en soins généraux,,Province des îles Loyauté,PIL,,2024-12-19,,
 54884,Directeur général adjoint des services / Directrice générale adjointe des services,,,24-1732,2024-11-14,Université de Nouvelle-Calédonie,attaché,,Université de Nouvelle-Calédonie,UNC,,2024-12-05,,
+55065,CHEF DE SERVICE ADMINISTRATIF ET FINANCIER,,,24-1823,2024-11-21,Conservatoire de musique et de danse,attaché,,Conservatoire de musique et de danse,CMD-NC,,2024-12-12,,
 54900,"Responsable Stratégie, Méthodes et Sécurité Opérationnelle des Réseaux Télécom",,,24-1746,2024-11-14,Office des postes et télécommunications,ingénieur,,Office des postes et télécommunications,OPT,,2024-12-05,,
-54628,Assistant parc automobile,,,24-1656,2024-10-31,Office des postes et télécommunications,agent technique,,Office des postes et télécommunications,OPT,,2024-11-21,,
+55136,1 chef de section relation clientèle,,,24-1871,2024-11-28,Office des postes et télécommunications,cadre d'exploitation,,Office des postes et télécommunications,OPT,,2024-12-19,,
+55155,3 chargés de contact clientèle à l'agence principale,,,24-1852,2024-11-28,Office des postes et télécommunications,agent d'exploitation,,Office des postes et télécommunications,OPT,,2024-12-19,,
 54858,ASSISTANT ADMINISTRATIF ET FINANCIER,,,24-1716,2024-11-14,Office des postes et télécommunications,agent d'exploitation,,Office des postes et télécommunications,OPT,,2024-12-05,,
-54630,Technicien de la cellule SAV professionnels et résidentiels,,,24-1658,2024-10-31,Office des postes et télécommunications,technicien,,Office des postes et télécommunications,OPT,,2024-11-21,,
-54632,Technicien de la cellule production,,,24-1660,2024-10-31,Office des postes et télécommunications,technicien,,Office des postes et télécommunications,OPT,,2024-11-21,,
-54621,Technicien de la cellule fichier technique des abonnés (FTA),,,24-1649,2024-10-31,Office des postes et télécommunications,technicien,,Office des postes et télécommunications,OPT,,2024-11-21,,
-54636,Chef de cellule à l'agence de Vallée du Tir,,,24-1664,2024-10-31,Office des postes et télécommunications,contrôleur,,Office des postes et télécommunications,OPT,,2024-11-21,,
+55146,Technicien de la cellule production,,,24-1861,2024-11-28,Office des postes et télécommunications,technicien,,Office des postes et télécommunications,OPT,,2024-12-19,,
+55141,1 chef(fe) de cellule arrivée,,,24-1866,2024-11-28,Office des postes et télécommunications,contrôleur,,Office des postes et télécommunications,OPT,,2024-12-19,,
+55153,1 Chef de cellule à l'agence principale,,,24-1853,2024-11-28,Office des postes et télécommunications,contrôleur,,Office des postes et télécommunications,OPT,,2024-12-19,,
+55092,Chef d'agence de Pouembout,,,24-1754,2024-11-21,Office des postes et télécommunications,contrôleur,,Office des postes et télécommunications,OPT,,2024-12-12,,
+55138,1 chef de cellule tri,,,24-1869,2024-11-28,Office des postes et télécommunications,contrôleur,,Office des postes et télécommunications,OPT,,2024-12-19,,
 54292,Agent des statistiques médicales,Attaché d'études statistiques,M1403-9,24-54292/MPRH,2024-11-14,Nouvelle-Calédonie,rédacteur,2025-02-06,Direction des affaires sanitaires et sociales,DASS,Nouméa,2024-12-05,"Placé sous l'autorité du chef de bureau épidémiologie du service de santé publique, l'agent des statistiques médicales a pour missions de:
 - Recueillir, analyser et valoriser les données épidémiologiques et les statistiques sanitaires ;
 - Participer à la surveillance et la gestion des alertes sanitaires ;
@@ -63,63 +94,60 @@ De plus, il procède également au contrôle comptable des conventions et des ar
 - Participer à des études en santé publique ;
 - Transmettre les données épidémiologiques demandées aux partenaires internationaux dont l'OMS et la CPS ;
 - Réaliser de manière secondaire d'autres activités de santé publique.",ann-claire.gourinat@gouv.nc
-54643,1 Infirmier(e) en soins généraux en cardiologie,,,24-1669,2024-10-31,"Centre hospitalier territorial ""Gaston Bourret""",infirmier en soins généraux,,"Centre hospitalier territorial ""Gaston Bourret""",CHT,,2024-11-21,,
-54640,9 Infirmier(e)s en soins généraux - réanimation,,,24-1666,2024-10-31,"Centre hospitalier territorial ""Gaston Bourret""",infirmier en soins généraux,,"Centre hospitalier territorial ""Gaston Bourret""",CHT,,2024-11-21,,
-54642,1 Auxiliaire de puériculture en pédiatrie,,,24-1668,2024-10-31,"Centre hospitalier territorial ""Gaston Bourret""",auxiliaire de puériculture,,"Centre hospitalier territorial ""Gaston Bourret""",CHT,,2024-11-21,,
+55329,1 Infirmier(e) en soins généraux - urgences adultes,,,24-1913,2024-12-05,"Centre hospitalier territorial ""Gaston Bourret""",infirmier en soins généraux,,"Centre hospitalier territorial ""Gaston Bourret""",CHT,,2024-12-26,,
+55299,5 Infirmiers en soins généraux - Gériatrie,,,24-1883,2024-12-05,"Centre hospitalier territorial ""Gaston Bourret""",infirmier en soins généraux,,"Centre hospitalier territorial ""Gaston Bourret""",CHT,,2024-12-26,,
+55298,4 Infirmiers en soins généraux - Néphrologie/hémodialyse,,,24-1882,2024-12-05,"Centre hospitalier territorial ""Gaston Bourret""",infirmier en soins généraux,,"Centre hospitalier territorial ""Gaston Bourret""",CHT,,2024-12-26,,
+55300,5 Infirmiers en soins généraux - Pneumologie,,,24-1884,2024-12-05,"Centre hospitalier territorial ""Gaston Bourret""",infirmier en soins généraux,,"Centre hospitalier territorial ""Gaston Bourret""",CHT,,2024-12-26,,
+55174,7 Infirmier(e)s en soins généraux  - Bloc opératoire,,,24-1843,2024-11-28,"Centre hospitalier territorial ""Gaston Bourret""",infirmier en soins généraux,,"Centre hospitalier territorial ""Gaston Bourret""",CHT,,2024-12-19,,
+55152,3 Infirmier(e)s en soins généraux - Chirurgie viscérale,,,24-1854,2024-11-28,"Centre hospitalier territorial ""Gaston Bourret""",infirmier en soins généraux,,"Centre hospitalier territorial ""Gaston Bourret""",CHT,,2024-12-19,,
 54881,1 CADRE SAGE-FEMME,,,24-1731,2024-11-14,"Centre hospitalier territorial ""Gaston Bourret""",sage femme,,"Centre hospitalier territorial ""Gaston Bourret""",CHT,,2024-12-05,,
-54695,1 Directeur délégué,,,24-1685,2024-10-31,"Centre hospitalier territorial ""Gaston Bourret""",emploi fonctionnel,,"Centre hospitalier territorial ""Gaston Bourret""",CHT,,2024-11-21,,
+55212,3 SAGES-FEMMES,,,24-1875,2024-11-28,"Centre hospitalier territorial ""Gaston Bourret""",sage femme,,"Centre hospitalier territorial ""Gaston Bourret""",CHT,,2024-12-19,,
+55302,1 Préparateur en pharmacie,,,24-1887,2024-12-05,"Centre hospitalier spécialisé ""Albert Bousquet""",préparateur en pharmacie,,"Centre hospitalier spécialisé ""Albert Bousquet""",CHS,,2024-12-26,,
+55320,"Responsable du département Indices, immobilier et état civil",,,24-1904,2024-12-05,Institut de la statistique et des études économiques,ingénieur,,Institut de la statistique et des études économiques,ISEE,,2024-12-26,,
+55319,Responsable du département Cartographie et tourisme,,,24-1903,2024-12-05,Institut de la statistique et des études économiques,ingénieur,,Institut de la statistique et des études économiques,ISEE,,2024-12-26,,
+55318,Chef du Service « Collecte et production »,,,24-1902,2024-12-05,Institut de la statistique et des études économiques,ingénieur,,Institut de la statistique et des études économiques,ISEE,,2024-12-26,,
+55149,"Formateur polyvalent histoire géographie, EMC, français",,,24-1857,2024-11-28,Institut de formation des maîtres de Nouvelle-Calédonie,professeur agrégé,,Institut de formation des maîtres de Nouvelle-Calédonie,IFMNC,,2024-12-19,,
 53256,Vérificateur,"Inspecteur (principal, vérificateur des impôts)",K1503-1,24-53256/MPRH,2024-09-12,Nouvelle-Calédonie,attaché,,Direction des services fiscaux,DSF,Nouméa,2024-12-12,"Sous l'autorité du chef de service, le vérificateur mène des opérations de contrôle consistant à vérifier la cohérence entre les déclarations fiscales souscrites et la comptabilité des entreprises ou les revenus des particuliers. L'exercice de la mission concerne l'ensemble du territoire de la Nouvelle-Calédonie, le vérificateur peut donc être amené à effectuer des déplacements.",pierre.bouquillon@gouv.nc
-54396,Contrôleur des affaires économiques,"Inspecteur (principal, vérificateur des impôts)",K1503-1,24-54396/MPRH,2024-11-11,Nouvelle-Calédonie,rédacteur,,Direction des affaires économiques,DAE,Nouméa,2024-11-28,"Le service de l'enregistrement des entreprises assure notamment : 
-- l'élaboration et l'application de la réglementation applicable aux professions commerciales soumises à autorisation ;
-- l'instruction des demandes d'agréments des entreprises et intermédiaires en assurances ;
-- l'instruction des demandes d'agréments des professions commerciales soumises à autorisation ;
-- les inspections et le contrôle des entreprises et intermédiaires en assurances ;
-- l'accueil et l'information des professionnels ;
-- l'instruction des dossiers qui lui sont confiés.
-Le service de l'enregistrement des entreprises est également en charge de la gestion du registre du commerce et des sociétés, et assure notamment à ce titre :
-- la tenue de la régie de recettes du registre du commerce et des sociétés et des téléservices associés ; 
-- l'accueil et renseignement du public ; 
-- la gestion de toutes formalités relevant du registre (immatriculation des sociétés, modifications, radiations).",gloria.turbatte@gouv.nc
-54393,Contrôleur des affaires économiques,"Inspecteur (principal, vérificateur des impôts)",K1503-1,24-54393/MPRH,2024-10-31,Nouvelle-Calédonie,rédacteur,,Direction des affaires économiques,DAE,Nouméa,2024-11-21,"Le service de l'enregistrement des entreprises assure notamment : 
-- l'élaboration et l'application de la réglementation applicable aux professions commerciales soumises à autorisation ;
-- l'instruction des demandes d'agréments des entreprises et intermédiaires en assurances ;
-- l'instruction des demandes d'agréments des professions commerciales soumises à autorisation ;
-- les inspections et le contrôle des entreprises et intermédiaires en assurances ;
-- l'accueil et l'information des professionnels ;
-- l'instruction des dossiers qui lui sont confiés.
-Le service de l'enregistrement des entreprises est également en charge de la gestion du registre du commerce et des sociétés, et assure notamment à ce titre :
-- la tenue de la régie de recettes du registre du commerce et des sociétés et des téléservices associés ; 
-- l'accueil et renseignement du public ; 
-- la gestion de toutes formalités relevant du registre (immatriculation des sociétés, modifications, radiations).",gloria.turbatte@gouv.nc
+55012,1 directeur,,,24-1808,2024-11-21,,ingénieur,,,,,2024-12-12,,
+55162,1 Archiviste,,,24-1831,2024-11-28,,rédacteur d'administration générale,,,,,2024-12-19,,
+55095,Agent d'accueil / Guichetier,,,24-1743,2024-11-21,Province Sud,adjoint administratif,,,,,2024-12-05,,
 54356,Infirmier(ère) au centre médico-social de Thio,,,24-1571,2024-10-17,Province Sud,infirmier diplômé d'État,,Province Sud,PVS,,2024-12-05,,
-53303,Développeur d'applications full stack - Chef projet informatique,,,24-1279,2024-08-15,Province Sud,ingénieur,,Province Sud,PVS,,2024-11-21,,
+53303,Développeur d'applications full stack - Chef projet informatique,,,24-1279,2024-08-15,Province Sud,ingénieur,,Province Sud,PVS,,2024-12-19,,
+55022,Conseiller technique,,,24-1796,2024-11-21,Province Sud,assistant socio-éducatif,,Province Sud,PVS,,2024-12-12,,
 52597,Assistant(e) social(e) de polyvalence de secteur,,,24-1045,2024-06-27,Province Sud,assistant socio-éducatif,,Province Sud,PVS,,2024-12-05,,
-54355,"Chef de service du ""pôle ressources""",,,24-1570,2024-10-17,Province Sud,attaché,,Province Sud,PVS,,2024-11-21,,
-53353,Médecin à l'UPASS de Thio,,,24-1323,2024-08-15,Province Sud,médecin de santé publique,,Province Sud,PVS,,2024-11-28,,
-53349,Médecin à l'UPASS de Bourail,,,24-1319,2024-08-15,Province Sud,médecin de santé publique,,Province Sud,PVS,,2024-11-28,,
+55005,Gestionnaire comptable et administratif(ve),,,24-1802,2024-11-21,Province Sud,adjoint administratif,,Province Sud,PVS,,2024-12-12,,
+55024,Informateur Jeunesse animateur de réseau web,,,24-1798,2024-11-21,Province Sud,rédacteur,,Province Sud,PVS,,2024-12-12,,
+55025,Médiateur numérique,,,24-1798,2024-11-21,Province Sud,rédacteur,,Province Sud,PVS,,2024-12-12,,
+53353,Médecin à l'UPASS de Thio,,,24-1323,2024-08-15,Province Sud,médecin de santé publique,,Province Sud,PVS,,2024-12-26,,
+53349,Médecin à l'UPASS de Bourail,,,24-1319,2024-08-15,Province Sud,médecin de santé publique,,Province Sud,PVS,,2024-12-26,,
 52599,Médecin à l'UPASS de Thio,,,24-1047,2024-06-27,Province Sud,médecin de santé publique,,Province Sud,PVS,,2024-12-05,,
-53354,Médecin à l'UPASS de l'île des Pins,,,24-1324,2024-08-15,Province Sud,médecin de santé publique,,Province Sud,PVS,,2024-11-28,,
+53354,Médecin à l'UPASS de l'île des Pins,,,24-1324,2024-08-15,Province Sud,médecin de santé publique,,Province Sud,PVS,,2024-12-26,,
 52303,Médecin itinérant en province Sud,,,24-0985,2024-06-06,Province Sud,médecin de santé publique,,Province Sud,PVS,,2024-12-12,,
-54363,"Psychologue scolaire dans la 6ème circonscription (Bourail, La Foa)",,,24-1578,2024-10-17,Province Sud,psychologue,,Province Sud,PVS,,2024-11-28,,
-54377,Chef du service topographique et foncier,,,24-1592,2024-10-17,Province Nord,ingénieur,,Province Nord,PVN,,2024-11-21,,
-54375,INFIRMIER EN SOINS GÉNÉRAUX,,,24-1590,2024-10-17,Province Nord,infirmier en soins généraux,,Province Nord,PVN,,2024-11-21,,
-54541,02 Médecins  - Houailou,,,24-1623,2024-10-24,Province Nord,médecin de santé publique,,Province Nord,PVN,,2024-11-28,,
-54542,02 Médecins  - Ponérihouen,,,24-1624,2024-10-24,Province Nord,médecin de santé publique,,Province Nord,PVN,,2024-11-28,,
-54543,Médecin  - Poum,,,24-1625,2024-10-24,Province Nord,médecin de santé publique,,Province Nord,PVN,,2024-11-28,,
-54783,"Chef de la division aéroports, navigation aérienne et sûreté",,,24-1698,2024-11-07,Direction de l'aviation civile,ingénieur des études et de l'exploitation,,Direction de l'aviation civile,DAC,,2024-11-28,,
-54174,Chef de section marketing au service marketing et communication,,,24-1525,2024-10-31,Office des postes et télécommunications,cadre d'exploitation,,Office des postes et télécommunications,OPT,,2024-11-21,,
-54173,Chargé d'études juridiques et ressources humaines,,,24-1508,2024-10-31,Office des postes et télécommunications,cadre d'exploitation,,Office des postes et télécommunications,OPT,,2024-11-21,,
-53756,Psychologue,"Psychologue, Psychanalyste, Psychothérapeute",K1104-2,24-53756/MPRH,2024-10-20,Nouvelle-Calédonie,psychologue,2025-02-09,Direction de la protection judiciaire de l'enfance et de la jeunesse,DPJEJ,Nouméa et Païta,2024-11-21,"Le psychologue participe de la prise en charge éducative en apportant un éclairage clinique des situations des mineurs confiés. Il a pour mission de : 
+54363,"Psychologue scolaire dans la 6ème circonscription (Bourail, La Foa)",,,24-1578,2024-10-17,Province Sud,psychologue,,Province Sud,PVS,,2024-12-19,,
+54377,Chef du service topographique et foncier,,,24-1592,2024-10-17,Province Nord,ingénieur,,Province Nord,PVN,,2024-12-05,,
+54375,INFIRMIER EN SOINS GÉNÉRAUX,,,24-1590,2024-10-17,Province Nord,infirmier en soins généraux,,Province Nord,PVN,,2024-12-05,,
+54541,02 Médecins  - Houailou,,,24-1623,2024-10-24,Province Nord,médecin de santé publique,,Province Nord,PVN,,2024-12-12,,
+54542,02 Médecins  - Ponérihouen,,,24-1624,2024-10-24,Province Nord,médecin de santé publique,,Province Nord,PVN,,2024-12-12,,
+54532,Concepteur - développeur d'applications full stack,,,24-1615,2024-10-24,Institut de la statistique et des études économiques,ingénieur,,Institut de la statistique et des études économiques,ISEE,,2024-12-05,,
+54192,Médecin évaluateur,"Médecin généraliste, Omnipraticien",J1102-15,24-54192/MPRH,2024-11-14,Nouvelle-Calédonie,médecin de santé publique,,Direction des affaires sanitaires et sociales,DASS,Nouméa,2025-01-02,"Au sein d'une équipe pluridisciplinaire, contribuer au service public de reconnaissance du handicap par l'appréciation médicale des situations et l'élaboration de propositions adaptées.",isabelle.labomme@gouv.nc
+52352,Pharmacien Hygiéniste / Médecin Hygiéniste,"Pharmacien spécialisé en législation pharmaceutique, Pharmacien Inspecteur de la santé, de Santé Publique -PhISP-",K1402-5,24-52352/MPRH,2024-06-23,Nouvelle-Calédonie,pharmacien,,Direction des affaires sanitaires et sociales,DASS,NOUMEA,2024-12-26,Le pharmacien/médecin hygiéniste est affecté au sein du bureau des produits de santé et de la biologie médicale au sein du service de l'offre et de la qualité des soins.,direction.dass@gouv.nc
+54698,Educateur spécialisé - UEMOHD Sud/Iles,"Educateur (de la protection judiciaire de la jeunesse, en milieu ouvert, socioéducatif)",K1207-1,24-54698/MPRH,2024-11-17,Nouvelle-Calédonie,assistant socio-éducatif,,Direction de la protection judiciaire de l'enfance et de la jeunesse,DPJEJ,NOUMEA,2024-12-19,"Par son implication dans une relation socio-éducative de proximité inscrite dans une temporalité, l'éducateur accompagne les mineurs et jeunes majeurs en difficulté, pour la mise en œuvre des mesures éducatives ordonnées par les magistrats dans le cadre de l'enfance délinquante (CJPM) ou de la protection de l'enfance (article 375 et suivant du code civil) confiées au SEMOHD.",sylvie.acramel@gouv.nc
+51814,Concepteur-développeur HRAccess,"Développeur (application, informatique, multimédia, web)",M1805-6,24-51814/MPRH,2024-06-04,Nouvelle-Calédonie,ingénieur,2024-06-07,Direction du numérique et de la modernisation,DINUM,Nouméa,2024-12-12,"Le concepteur-développeur conçoit et réalise des programmes informatiques selon les règles de l'art, sur la base d'un partenariat productif avec les MOA (maîtres d'ouvrage) et sous la responsabilité d'un chef de projet.
+Il en assume la responsabilité technique et opérationnelle dans le respect du budget et des délais. Il assure la maintenance pour les applications en production.",georges.wapae@gouv.nc
+54332,DIRNC/PREVI/Responsable de division,"Météorologiste, Météorologiste prévisionniste, Météorologue, Responsable cellule météorologique",M1809-1,24-54332/MPRH,2024-10-27,Direction interrégionale de Météo-France,ingénieur,2025-05-31,,,Nouméa,2024-12-10,"Le chef de division organise le tour d'exploitation et participe aux décisions opérationnelles avec le chef-prévisionniste (astreinte
+métier). Il participe à la permanence de direction d'avril à décembre et assure la permanence métier pour les
+situations météorologiques à enjeu. Il peut participer à des réunions internationales. Une grande disponibilité est
+requise notamment durant la saison cyclonique de novembre à avril",frederic.atger@meteo.fr
+54638,Assistant administratif et technique,"Gestionnaire administratif ressources humaines, de l'administration du personnel",M1501-1,24-54638/MPRH,2024-11-21,Nouvelle-Calédonie,adjoint administratif,2025-01-01,"Direction des affaires vétérinaires, alimentaires et rurales",DAVAR,Nouméa,2024-12-12,"L'assistant administratif et technique assure principalement la gestion administrative des ressources humaines, des moyens logistiques et des archives de la DAVAR. Il participe également, en collaboration avec la cellule informatique, à la mise en œuvre et au développement d'outils informatiques no-code.",mylene.oustric@gouv.nc
+54955,Chef de projet AMOA (système d'information),"Chef de projet (Maîtrise d'Ouvrage -MOA-, maîtrise d'ouvrage des systèmes d'information)",M1806-3,24-54955/MPRH,2024-11-25,Nouvelle-Calédonie,ingénieur,,"Direction des infrastructures, de la topographie et des transports terrestres",DITTT,Nouméa,2024-12-12,"Placé sous l'autorité du directeur et de son adjoint, l'agent spécialiste du pilotage des projets et expert en applicatifs métiers intervient principalement sur :
 
-- Réaliser et rédiger des bilans psychologiques,
-- Soutenir l'accompagnement éducatif individualisé à la demande du personnel éducatif (éclairage, autre point de vue,...),
-- Recueillir, étudier et analyser les besoins et/ou les demandes en interventions psychologiques ou psychiatriques,
-- Rédiger des notes ou rapports complémentaires adressées aux magistrats ou organismes placeurs, lorsque son éclairage paraît nécessaire,
-- Travailler en collaboration avec les services de la DPJEJ et les partenaires de la protection judiciaire (social, santé, scolaire, ...),
-- Respecter les procédures et les pratiques mises en place pour le fonctionnement du service,
-- Réaliser l'évaluation de la personnalité des mineurs dans le cadre d'entretiens, des observations faites et de bilans psychologiques,
-- Travailler en équipe pluridisciplinaire : participation aux synthèses, aide à l'orientation éducative, élaboration du projet individualisé du mineur (DIPC).",priscillia.lashermesrobson@gouv.nc
-52333,Médecin inspecteur de santé publique,"Médecin (Inspecteur de Santé Publique -MISP-, inspecteur de la santé, conseil)",K1402-2,24-52333/MPRH,2024-06-23,Nouvelle-Calédonie,médecin de santé publique,,Direction des affaires sanitaires et sociales,DASS,Nouméa,2024-11-28,"Le médecin inspecteur de la santé publique travaille dans le service de l'offre et de la qualité des soins, plus particulièrement au sein du bureau des services et établissements de santé, doté d'un chef de bureau et de trois agents et qui intervient notamment sur les sujets suivants:
+- la suite du projet LISA (refonte du SI de gestion des cartes grises). Il organise et pilote la finalisation des développements de Lisa et l'intégration des derniers développements LISA PRO : importateurs/concessionnaires/prises de RDV/assurances/ forces de l'ordre. Il prépare également les conditions d'accueil de l'outil  dédié au Fonds d'Investissement et d'Aménagement (FIA);
+
+- le Système d'information des transports terrestres. Il organise et pilote le développement du SI des transports terrestres qui intègre la gestion des permis de conduire, la gestion des cartes grises, la gestion des transports, la gestion de l'éducation routière et la mise à disposition d'un site serviciel pour les usagers et les professionnels;
+
+- les outils transverses et projets innovants dans tout le champ de compétence de la DITTT (bornes interactives, télé-services). Il apporte son expertise pour déployer des solutions visant à optimiser et moderniser le fonctionnement de la direction et le service aux usagers.",sabrina.argiriou@gouv.nc
+55009,Chef de section soutien RH et moyens humains à la direction de la distribution,,,24-1805,2024-11-21,Office des postes et télécommunications,cadre d'exploitation,,Office des postes et télécommunications,OPT,,2024-12-12,,
+52333,Médecin inspecteur de santé publique,"Médecin (Inspecteur de Santé Publique -MISP-, inspecteur de la santé, conseil)",K1402-2,24-52333/MPRH,2024-06-23,Nouvelle-Calédonie,médecin de santé publique,,Direction des affaires sanitaires et sociales,DASS,Nouméa,2024-12-26,"Le médecin inspecteur de la santé publique travaille dans le service de l'offre et de la qualité des soins, plus particulièrement au sein du bureau des services et établissements de santé, doté d'un chef de bureau et de trois agents et qui intervient notamment sur les sujets suivants:
 - élaboration, du suivi et du contrôle de l'application de la réglementation applicable aux services et établissements de santé,
 - avis sur les projets d'établissement et d'évaluer leur mise en œuvre,
 - examen des demandes d'installation, d'équipements lourds, ou d'activité de soins relevant du régime des autorisations sanitaires 
@@ -129,197 +157,214 @@ Le service de l'enregistrement des entreprises est également en charge de la ge
 -  accompagnement et du suivi des réseaux de santé en lien avec l'ASSNC,  
 - agrément et du contrôle des entreprises de transports sanitaires,
 - participation aux instances relevant du bureau.",marion.arbes@gouv.nc
-52654,Médecin de santé publique,"Médecin (Inspecteur de Santé Publique -MISP-, inspecteur de la santé, conseil)",K1402-4,24-52654/MPRH,2024-07-18,Nouvelle-Calédonie,médecin de santé publique,,Direction des affaires sanitaires et sociales,DASS,Nouméa,2024-11-28,"Placé sous l'autorité du chef de service de santé publique, le médecin participe à l'ensemble des activités du service.",ann-claire.gourinat@gouv.nc
-53753,Educateur spécialisé - SEMOHD,"Educateur (de la protection judiciaire de la jeunesse, en milieu ouvert, socioéducatif)",K1207-1,24-53753/MPRH,2024-09-18,Nouvelle-Calédonie,assistant socio-éducatif,2024-12-31,Direction de la protection judiciaire de l'enfance et de la jeunesse,DPJEJ,Nouméa,2024-11-21,"Sous l'autorité du chef de service et des chefs de service éducatif du SEMOHD, l'éducateur en milieu ouvert intervient auprès d'un public mineur âgé de 13 à 18 ans dans le cadre d'un mandat judiciaire. 
-- Accompagnement socio-éducatif et contrôle des mineurs suivis en milieu ouvert dans le cadre des mesures judiciaires ordonnées en assistance éducative (article 375 et suivant du CC) ou au titre de de l'enfance délinquante (CJPM) ;
- - Exercice des mesures d'investigation d'orientation éducative (IOE) ainsi que des recueils de renseignements socio-éducatifs(RRSE) ;
- - Participation aux permanences éducatives auprès du tribunal pour enfants ;
- - Inscription, participation aux politiques de prévention et d'insertion des communes (CLSPD).",rene.waetheane@gouv.nc
-53992,Administrateur systèmes Windows,Administrateur système informatique,M1801-3,24-53992/MPRH,2024-10-31,Nouvelle-Calédonie,ingénieur,,Direction du numérique et de la modernisation,DINUM,Nouméa,2024-11-21,"L'administrateur système est responsable de plusieurs missions essentielles pour le bon fonctionnement de l'infrastructure
-informatique du GNC. Il est chargé de la gestion, de l'administration et de l'évolution des infrastructures de serveurs
-Windows du GNC. Pour ce faire, il réalise des actions d'ingénierie visant à optimiser et automatiser les tâches
-d'administration et d'exploitation des serveurs Windows. Il effectue également des études, gère et pilote des projets pour
-améliorer, faire évoluer et rationaliser les infrastructures de serveurs Windows du GNC. L'administrateur système collabore
-également à la gestion de projets transverses en lien avec l'ingénierie bureautique. Enfin, il garantis le bon fonctionnement
-de l'organisation matricielle au profit des projets et produits de l'organisme.",christophe.simon@gouv.nc
-54456,Chargé de mission,Agent administratif,M1602-1,24-54456/MPRH,2024-10-31,Conseil des aires coutumières,rédacteur,2024-11-27,Conseil coutumier Paici Camuki,,Village de Ponerihouen,2024-11-21,"Le chargé de mission assiste le président, le secrétaire général ainsi que les
-membres du conseil coutumier dans la mise en œuvre des compétences
-attribuées au conseil coutumier par la loi organique modifiée n° 99-209 du 19
-mars 1999.",willy.cahma@paici-camuki.nc
-54054,Responsable du bureau des politiques sociales et médico-sociales,"Responsable administratif, administratif de gestion, administratif et financier",M1205-1,24-54054/MPRH,2024-10-31,Nouvelle-Calédonie,attaché,,Direction des affaires sanitaires et sociales,DASS,Nouméa,2024-11-21,"Le bureau des politiques sociales et médico-sociales a pour mission d'élaborer et de suivre les politiques de solidarités à destination des personnes handicapées, des personnes âgées et dépendantes, des majeurs protégés, de l'enfant et de la famille.
-Le bureau des politiques sociales et médico-sociales assure le secrétariat: 
-- du conseil du handicap et de la dépendance.",direction.dass@gouv.nc
-54053,Chef du service de la protection sociale,"Responsable administratif, administratif de gestion, administratif et financier",M1205-1,24-54053/MPRH,2024-10-31,Nouvelle-Calédonie,attaché,2024-12-01,Direction des affaires sanitaires et sociales,DASS,Nouméa,2024-11-21,"Placé sous l'autorité du directeur, le service de la protection sociale a pour mission d'élaborer, de suivre les politiques publiques en matière d'accès aux soins et de régulation financière des acteurs de santé, les politiques de solidarités à destination des personnes handicapées, des personnes âgées et dépendantes, des majeurs protégés, de l'enfant et de la famille.
+52654,Médecin de santé publique,"Médecin (Inspecteur de Santé Publique -MISP-, inspecteur de la santé, conseil)",K1402-4,24-52654/MPRH,2024-07-18,Nouvelle-Calédonie,médecin de santé publique,,Direction des affaires sanitaires et sociales,DASS,Nouméa,2024-12-26,"Placé sous l'autorité du chef de service de santé publique, le médecin participe à l'ensemble des activités du service.",ann-claire.gourinat@gouv.nc
+54854,Gestionnaire comptable,"Gestionnaire comptable, Technicien comptable",M1203-3,24-54854/MPRH,2024-11-21,Nouvelle-Calédonie,adjoint administratif,,"Direction des achats, du patrimoine et des moyens",DAPM,Nouméa,2024-12-12,"Sous la responsabilité du chef du bureau, le gestionnaire comptable assure le traitement comptable et contrôle l'exécution des dépenses et recettes courantes.
+Il assure la relation avec les usagers, fournisseurs ou services utilisateurs.",olivia.tamin@gouv.nc
+54461,Assistant administratif,Agent administratif,M1602-1,24-54461/MPRH,2024-11-21,Nouvelle-Calédonie,adjoint administratif,,Direction des affaires économiques,DAE,Nouméa,2024-12-12,"Le service des prix est en charge d'assurer le relevé, la veille, l'analyse et le contrôle des prix et des marges, à tous les niveaux de la chaîne de valeur, et assure notamment : 
 
-Il assure la synthèse et la mise en cohérence financière, juridique et de performance de ces politiques. 
-Le service de la protection sociale comprend: 
-- le bureau des politiques sociales et médico-sociales
-- le bureau de le performance du système de protection sociale.",direction.dass@gouv.nc
-54573,Chef.fe de la section recrutement,"Responsable administratif, administratif de gestion, administratif et financier",M1205-1,24-54573/MPRH,2024-10-31,Nouvelle-Calédonie,attaché,,Direction des ressources humaines et de la fonction publique de Nouvelle-Calédonie,DRHFPNC,Nouméa,2024-12-05,Le.la chef.fe de la section recrutement organise et supervise le travail de la section recrutement qui est à la fois prestataire pour la collectivité NC et pour la fonction publique. Il.elle contribue activement à professionnaliser la fonction recrutement en apportant son expertise et en développant des dispositifs d'accompagnement adaptés aux besoins des directions NC.,rodolphe.ponsard-goiranr@gouv.nc
-53054,Chef de section réseau et datacenter,"Chef de projet (étude et développement informatique, maîtrise d'œuvre informatique)",M1805-4,24-53054/MPRH,2024-09-29,Nouvelle-Calédonie,ingénieur,2024-12-01,Direction du numérique et de la modernisation,DINUM,Nouméa,2024-11-28,"La direction du numérique et de la modernisation (DINUM) est chargée de définir et d'assurer la mise en œuvre de la politique de développement numérique du gouvernement de la Nouvelle-Calédonie en articulation avec la
-stratégie générale de la collectivité notamment en matière de transformation numérique de l'action publique, de simplification et de modernisation des services rendus grâce au numérique, de pilotage de la performance
-par le levier du numérique et de développement de l'économie numérique. Elle doit garantir la sécurité et la continuité du service informatique fourni aux utilisateurs et anticiper les changements et leurs impacts métiers
-sur le système d'information. A ce titre, elle agit en tant que prestataire de services informatiques auprès des directions, des institutions et établissements de la Nouvelle-Calédonie mais aussi en faveur des collectivités
-provinciales, des services de l'Etat et des communes. Elle vise également à développer des synergies avec les usagers internes, externes, et les entreprises.
+- l'élaboration de la réglementation et de l'application des textes relatifs à la réglementation des prix
+- le contrôle et le suivi de l'application de la réglementation en matière de prix des produits 
+- la réalisation d'enquêtes et d'inspections dans ces domaines 
+- l'accueil, l'information et le traitement des plaintes des consommateurs et des professionnels sur les prix pratiqués 
+- la collecte, la veille, l'analyse des prix sur l'ensemble du territoire et le contrôle de la sincérité des données transmises par les professionnels 
+- la création de fiches d'identification des produits et articles 
+- la gestion des systèmes d'information dédiés à l'information du public sur les prix 
+- la diffusion de l'information via le site internet ou l'applicatif dédié et les actions d'information et de communication sur tout support 
+- la gestion du secrétariat du comité de l'observatoire des prix et des marges 
+- l'instruction des dossiers qui lui sont confiés",sylvie.pinsat@gouv.nc
+54934,Assistant(e) comptable,Agent administratif,M1602-1,24-54934/MPRH,2024-11-25,Nouvelle-Calédonie,adjoint administratif,2025-05-01,Direction du budget et des affaires financières,DBAF,Nouméa,2024-12-12,"Placé sous l'autorité de l'adjoint au chef de service et dans le cadre de son plan de réforme de la gestion des finances publiques, la centralisation des factures est le point unique et la première étape de la dématérialisation de la chaîne comptable. Elle doit permettre à la collectivité de connaître à tout moment le volume de factures à traiter (traçabilité) et de maîtriser les délais de traitement.",filomena.moleana@gouv.nc
+54937,Assistant administratif,Agent administratif,M1602-1,24-54937/MPRH,2024-11-21,Nouvelle-Calédonie,adjoint administratif,,Direction de la protection judiciaire de l'enfance et de la jeunesse,DPJEJ,Nouméa,2024-12-12,"Placée sous l'autorité du chef de service éducatif de l'UEMO QM-Sud  et de l'UEMOHD Sud/Iles , l'assistant administratif assure l'ensemble des tâches dévolues au secrétariat et apporte son soutien dans la gestion administrative et comptable des deux unités.",rene.waetheane@gouv.nc
+53034,Concepteur - Développeur,"Concepteur (analyste informatique, informatique)",M1805-5,24-53034/MPRH,2024-11-17,Nouvelle-Calédonie,ingénieur,,Direction du numérique et de la modernisation,DINUM,Nouméa,2024-12-05,"- Concevoir et réaliser des applications sur la base de descriptions de besoins fonctionnels émis par le propriétaire de l'application/produit ou son représentant, sous la responsabilité d'un chef de projet ou d'un chef de section
+- Maintenir des applications en production
+- Garantir le bon fonctionnement de l'organisation matricielle au profit des projets et produits de l'organisme.",georges.wapae@gouv.nc
+54573,Chef.fe de la section recrutement,"Responsable administratif, administratif de gestion, administratif et financier",M1205-1,24-54573/MPRH,2024-10-31,Nouvelle-Calédonie,attaché,,Direction des ressources humaines et de la fonction publique de Nouvelle-Calédonie,DRHFPNC,Nouméa,2025-01-02,Le.la chef.fe de la section recrutement organise et supervise le travail de la section recrutement qui est à la fois prestataire pour la collectivité NC et pour la fonction publique. Il.elle contribue activement à professionnaliser la fonction recrutement en apportant son expertise et en développant des dispositifs d'accompagnement adaptés aux besoins des directions NC.,rodolphe.ponsard-goiranr@gouv.nc
+54936,Conseiller jeunesse et sports,Conseiller sportif,G1204-5,24-54936/MPRH,2024-11-27,Nouvelle-Calédonie,conseiller des APS,,Direction de la jeunesse et des sports,DJS,Nouméa,2024-12-19,"Le conseiller, affecté au service des sports de la direction jeunesse et sports de Nouvelle-Calédonie, est sous l'autorité du chef de service des sports.
+il aura pour missions :
+- le suivi administratif du dispositif CHAM / sport études,
+- la gestion des congés exceptionnels,
+- la gestion et suivi administratif des sportifs inscrits sur les listes ministérielles,
+- le suivi des filières d'excellence (centre territoriaux d'entraînements et pôles sportifs).",djsnc@gouv.nc
+55053,Chef de service éducatif UEMOHD Nord - SEMOHD.,"Directeur d'établissement (à caractère social, de protection de la jeunesse, médicosocial)",K1403-1,24-55053/MPRH,2024-11-25,Nouvelle-Calédonie,cadre socio-éducatif,,Direction de la protection judiciaire de l'enfance et de la jeunesse,DPJEJ,KONE,2024-12-12,"Sous l'autorité du chef de service du service éducatif de milieu ouvert et de l'hébergement diversifié (SEMOHD) de la direction de la protection judiciaire de l'enfance et de la jeunesse (DPJEJ), le chef de service éducatif est en charge pédagogiquement et techniquement de l'unité éducative de milieu ouvert  et de l'hébergement diversifié du Nord, toutes antennes confondues (Poindimié et Koné).
 
-Afin de mener à bien ses missions, tout en étant dans une démarche constante de performance et d'innovation tant en termes de solutions que d'organisations dans le cadre de la gestion des projets et des produits, l'organisation de la DINUM privilégie un fonctionnement organisé autour de produits numériques, la polyvalence des agents, la mutualisation des compétences et la coordination efficace des ressources internes. Cette organisation s'inscrit également dans une démarche générale de rationalisation des moyens et de maîtrise des coûts.
+Il décline les orientations éducatives du projet de service en objectifs de travail de terrain, il est chargé de coordonner et conseiller l'équipe pluridisciplinaire grâce à son expérience en matière éducative. En l'absence du chef de service, le chef de service éducatif assure l'intérim en lien avec la direction.
 
-La section réseau et datacenter est en charge de maintenir les liaisons de télécommunications du GNC et de l'évolution des architectures nécessaires à la mise à disposition des services numériques du GNC. Elle a vocation à progressivement se recentrer sur la mise en œuvre et la gestion des infrastructures de cloud internes et externes, notamment en déléguant la gestion des réseaux locaux des sites du gouvernement.
+Le chef de service devra assurer le développement des compétences des agents de l'unité, dans le cadre du plan de formation pluriannuel arrêté par la direction et validé par la DRHFPNC.",jena.bouteille@gouv.nc
+54073,Gestionnaire guichet-comptable,"Agent d'assiette des impôts, Agent de constatation ou d'assiette des impôts",K1501-2,24-54073/MPRH,2024-11-21,Nouvelle-Calédonie,rédacteur,,Direction des services fiscaux,DSF,Nouméa,2024-12-12,"Au sein du service de la recette, l'agent exerce par alternance des missions polyvalentes de guichet et de comptabilité, assure l'accueil physique et téléphonique des usagers et procède au traitement des demandes de remboursement de divers impôts.",gil.pain@gouv.nc
+55033,Inspecteur des installations classées pour la protection de l'environnement,"Inspecteur de conformité en électricité, environnement, gaz, levage, pression, soudage, sécurité incendie, thermique",H1301-1,24-55033/MPRH,2024-11-25,Nouvelle-Calédonie,ingénieur,,"Direction de l'industrie, des mines et de l'énergie",DIMENC,Nouméa,2024-12-12,"Les missions du service industrie consistent à réglementer et contrôler les activités industrielles, notamment celles susceptibles d'avoir un impact sur l'environnement, les biens et les personnes : installations classées relatives aux déchets, ouvrages hydrauliques, explosifs, équipements sous pression, métrologie légale, radioprotection. En particulier, elle exerce des missions pour le compte :
+- des Provinces : inspection des installations classées pour la protection de l'environnement (ICPE), instruction de dossiers et de plaintes, appui aux décideurs publics,
+- de l'Etat : contrôle des explosifs (importation, transport, stockage, mise en œuvre) et instruction des mouvements transfrontaliers de déchets dangereux,
+- de la Nouvelle-Calédonie : contrôle des ouvrages hydrauliques (barrages), des équipements sous pression, métrologie légale (balances commerciales, ponts bascules, bacs de stockage, volucompteurs, taximètres), radioprotection et secrétariat du fonds TAP (taxe anti-pollution).
 
-Placé sous la responsabilité du chef de service, le chef de section réseau et datacenter a pour missions  :
-- la gestion au quotidien des équipes de la section réseau et datacenter.
-- la gestion, l'animation et le pilotage de l'équipe des administrateurs réseau et datacenter.
-- la participation à la conception de l'architecture technique du système d'information.
-- l'administration et la gestion des ressources réseaux et télécommunications et/ou des solutions de virtualisation, ainsi que des autres outils d'infrastructure du cloud.
-- l'orientation des équipes dans les choix techniques et propositions de processus cohérents et efficients dans le but d'assurer les missions de la section de manière optimale.
-- la coordination et le pilotage des projets, la participation aux réunions avec la hiérarchie en qualité de référent technique pour son champ d'activités.
-- la participation à l'effort global de cybersécurité en l'intégrant nativement dans tous les projets menés.",georges.wapae@gouv.nc
+Au sein du service industrie, la section « Environnement industriel » est chargée du contrôle et de l'accompagnement de 1300 ICPE sur l'ensemble du territoire, dont plusieurs d'entre-elles représentent un enjeu majeur pour la Nouvelle-Calédonie (usines métallurgiques, dépôts pétroliers, centrales de production d'électricité...).",herve.cheramy@gouv.nc
+55233,"Chargé(e) Hygiène, Sécurité, Environnement (HSE)",,,24-1811,2024-12-04,Port autonome de Nouvelle-Calédonie,technicien,,,,,2024-12-19,,
+55151,Agent d'accueil  polyvalent,,,24-1855,2024-11-28,,adjoint administratif,,,,,2024-12-19,,
 54895,1 assistant administratif et comptable,,,24-1740,2024-11-14,,adjoint administratif,,,,,2024-12-05,,
+55325,1 Régisseur mandataire suppléant de la régie recettes,,,24-1909,2024-12-05,,adjoint administratif,,,,,2024-12-26,,
+54984,1 steward urbain,,,24-1760,2024-11-21,,adjoint administratif,,,,,2024-12-12,,
 54893,1 Chargé(e) de Communication et relation publique  ou Community manager,,,24-1739,2024-11-14,,attaché d'administration générale,,,,,2024-12-05,,
-54779,Directeur administratif et financier,,,24-1693,2024-11-07,,attaché d'administration générale,,,,,2024-11-28,,
-54815,Chargé de mission en matière de sécurité,,,24-1695,2024-11-07,,attaché d'administration générale,,,,,2024-11-28,,
-54633,2 Maîtres-nageurs sauveteurs,,,24-1661,2024-10-31,,éducateur des APS,,,,,2024-11-21,,
-54778,3 animateurs sportifs de proximité à mi-temps,,,24-1692,2024-11-07,,ACDP-Grille rémunération 1-Sans diplôme,,,,,2024-11-28,,
-54118,Assistant(e) social(e) de polyvalence de secteur,,,24-1492,2024-10-03,Province Sud,assistant socio-éducatif,,Province Sud,PVS,,2024-11-21,,
+54990,Juriste /responsable du service de la commande publique,,,24-1769,2024-11-21,,attaché d'administration générale,,,,,2024-12-12,,
+55170,1 Assistant maternel ou aide maternelle,,,24-1839,2024-11-28,,Convention collective des services publics,,,,,2024-12-19,,
+54972,Gestionnaire administratif et logistique,,,24-1747,2024-11-21,,rédacteur,,,,,2024-12-12,,
+55332,1 médiateur culturel et patrimonial,,,24-1915,2024-12-05,,assistant de conservation,,,,,2024-12-26,,
+55178,1 chef de centre de secours,,,24-1847,2024-11-28,,lieutenant,,,,,2024-12-19,,
+55175,Coordinateur.trice de maison de quartier,,,24-1844,2024-11-28,,animateur socio-éducatif,,,,,2024-12-19,,
+55334,1 coordinateur de site,,,24-1917,2024-12-05,,technicien,,,,,2024-12-26,,
+54986,Auxiliaire de proximité,,,24-1763,2024-11-21,,ACDP-Grille rémunération 1-Sans diplôme,,,,,2024-12-12,,
+55096,Infirmier(ère) à l'UPASS de l'île des Pins,,,24-1827,2024-11-21,Province Sud,infirmier en soins généraux,,Province Sud,PVS,,2024-12-12,,
+54997,Moniteur éducateur au sein de la maison de l'enfance de Bourail,,,24-1778,2024-11-21,Province Sud,moniteur socio-éducatif,,Province Sud,PVS,,2024-12-12,,
+54118,Assistant(e) social(e) de polyvalence de secteur,,,24-1492,2024-10-03,Province Sud,assistant socio-éducatif,,Province Sud,PVS,,2024-12-19,,
 54863,Gestionnaire du personnel enseignant,,,24-1720,2024-11-14,Province Sud,rédacteur,,Province Sud,PVS,,2024-12-05,,
-54896,Responsable du bureau administratif,,,24-1741,2024-11-14,Province Sud,rédacteur,,Province Sud,PVS,,2024-12-05,,
+54896,Responsable du bureau administratif,,,24-1741,2024-11-14,Province Sud,rédacteur,,Province Sud,PVS,,2024-12-12,,
+55307,Chargé(e) d'études,,,24-1891,2024-12-05,Province Sud,attaché,,Province Sud,PVS,,2024-12-26,,
+54108,Orthophoniste au Service de Prévention et de Promotion de la Santé,,,24-1482,2024-10-03,Province Sud,orthophoniste,,Province Sud,PVS,,2024-12-05,,
+55167,Infirmier(ère) à l'UPASS de l'île des Pins,,,24-1836,2024-11-28,Province Sud,infirmier en soins généraux,,Province Sud,PVS,,2024-12-19,,
 51261,Infirmier(ère) au centre médico-social de Thio,,,24-0613,2024-03-21,Province Sud,infirmier en soins généraux,2024-08-31,Province Sud,PVS,,2024-12-05,,
-54108,Orthophoniste au Service de Prévention et de Promotion de la Santé,,,24-1482,2024-10-03,Province Sud,orthophoniste,,Province Sud,PVS,,2024-11-28,,
 54885,"Directeur de la culture, de la jeunesse et des sports",,,24-1733,2024-11-14,Province Sud,emploi fonctionnel,,Province Sud,PVS,,2024-12-05,,
-54797,Comptable,,,24-1712,2024-11-07,Province Nord,adjoint administratif,,Province Nord,PVN,,2024-11-28,,
-54657,Infirmier d'internat,,,24-1679,2024-10-31,Province Nord,infirmier en soins généraux,,Province Nord,PVN,,2024-11-21,,
-52814,3 INFIRMIERS EN SOINS GENERAUX,,,24-1125,2024-07-11,Province Nord,infirmier en soins généraux,,Province Nord,PVN,,2024-11-21,,
-54648,Chef de bureau de proximité de soins (Côte Ouest),,,24-1674,2024-10-31,Province Nord,cadre de santé,,Province Nord,PVN,,2024-11-21,,
-54798,Médecin itinérant de santé publique,,,24-1713,2024-11-07,Province Nord,médecin de santé publique,,Province Nord,PVN,,2024-11-28,,
-54794,Directeur,,,24-1709,2024-11-07,Province Nord,emploi fonctionnel,,Province Nord,PVN,,2024-11-28,,
-53717,Directeur,,,24-1395,2024-09-05,Province Nord,emploi fonctionnel,,Province Nord,PVN,,2024-11-28,,
-54795,Agent de service en dortoir,,,24-1710,2024-11-07,Province Nord,ACDP-Grille rémunération 1-Sans diplôme,,Province Nord,PVN,,2024-11-28,,
-53943,Adjoint(e) au chef du centre d'incendie et de secours,,,24-1463,2024-09-19,Ville du Mont-Dore,major,,Ville du Mont-Dore,,,2024-11-21,,
-54635,"1 Ingénieur en réseau, Cybersécurité et Bases de données",,,24-1663,2024-10-31,Province des îles Loyauté,ingénieur,,Province des îles Loyauté,PIL,,2024-11-21,,
-54654,5 Médecins,,,24-1676,2024-10-31,Province des îles Loyauté,médecin de santé publique,,Province des îles Loyauté,PIL,,2024-11-21,,
-54655,3 Médecins,,,24-1677,2024-10-31,Province des îles Loyauté,médecin de santé publique,,Province des îles Loyauté,PIL,,2024-11-21,,
-54658,3 Médecins,,,24-1680,2024-10-31,Province des îles Loyauté,médecin de santé publique,,Province des îles Loyauté,PIL,,2024-11-21,,
-54773,Responsable de l'évaluation des politiques publiques de la Nouvelle-Calédonie,,,24-1714,2024-11-07,Congrès de la Nouvelle-Calédonie,attaché,,Congrès de la Nouvelle-Calédonie,CNC,,2024-11-28,,
-53893,Chef du service de la protection des consommateurs,"Assistant, directeur, responsable d'enquêtes terrain",M1404-1,24-53893/MPRH,2024-10-28,Nouvelle-Calédonie,attaché,,Direction des affaires économiques,DAE,Nouméa,2024-11-28,"Le service de la protection des consommateurs est chargé d'assurer la protection des consommateurs. Il  assure notamment :
-- l'élaboration et l'application de la réglementation en matière de protection économique et physique du consommateur, de qualité des produits et services et de loyauté des transactions ;
-- l'application de la réglementation relative aux professions commerciales soumises à autorisation ;
-- la réalisation d'enquêtes et d'inspections dans ces domaines ;
-- l'accueil, l'information et le traitement des réclamations des consommateurs et des professionnels ;
-- l'instruction des dossiers qui luis sont confiés.",john.trupit@gouv.nc
-54860,Chargé de la transition énergétique du service immobilier,,,24-1717,2024-11-14,Office des postes et télécommunications,cadre technique,,Office des postes et télécommunications,OPT,,2024-12-05,,
-54886,Chargé du contrôle interne et de la maîtrise des risques,,,24-1734,2024-11-14,Office des postes et télécommunications,cadre d'exploitation,,Office des postes et télécommunications,OPT,,2024-12-05,,
-54619,Analyste de gestion,,,24-1648,2024-10-31,Office des postes et télécommunications,cadre d'exploitation,,Office des postes et télécommunications,OPT,,2024-11-21,,
-54627,Chargé de contact clientèle à l'Agence de Vallée du Tir,,,24-1655,2024-10-31,Office des postes et télécommunications,agent d'exploitation,,Office des postes et télécommunications,OPT,,2024-11-21,,
-54631,Technicien de la cellule production sous-traitée,,,24-1659,2024-10-31,Office des postes et télécommunications,technicien,,Office des postes et télécommunications,OPT,,2024-11-21,,
-54629,Technicien de la cellule SAV résidentiels,,,24-1657,2024-10-31,Office des postes et télécommunications,technicien,,Office des postes et télécommunications,OPT,,2024-11-21,,
-54864,1 Assistant(e) Médico-Administratif - Centre de don du sang,,,24-1721,2024-11-14,"Centre hospitalier territorial ""Gaston Bourret""",rédacteur,,"Centre hospitalier territorial ""Gaston Bourret""",CHT,,2024-12-05,,
-54891,1 Chef de service adjoint hôtellerie et logistique,,,24-1738,2024-11-14,"Centre hospitalier territorial ""Gaston Bourret""",attaché,,"Centre hospitalier territorial ""Gaston Bourret""",CHT,,2024-12-05,,
-54639,2 Infirmier(e)s en soins généraux en réanimation/SICS Plateau,,,24-1665,2024-10-31,"Centre hospitalier territorial ""Gaston Bourret""",infirmier en soins généraux,,"Centre hospitalier territorial ""Gaston Bourret""",CHT,,2024-11-21,,
-54641,1 Aide-soignant(e) en pédiatrie,,,24-1667,2024-10-31,"Centre hospitalier territorial ""Gaston Bourret""",aide-soignant,,"Centre hospitalier territorial ""Gaston Bourret""",CHT,,2024-11-21,,
-54813,1 infirmier hygiéniste,,,24-1705,2024-11-07,"Centre hospitalier spécialisé ""Albert Bousquet""",infirmier en soins généraux,,"Centre hospitalier spécialisé ""Albert Bousquet""",CHS,,2024-11-28,,
-53822,cadre de santé CMP Galliéni - AUP,,,24-1426,2024-09-12,"Centre hospitalier spécialisé ""Albert Bousquet""",cadre de santé,,"Centre hospitalier spécialisé ""Albert Bousquet""",CHS,,2024-11-28,,
-54793,Assistant de direction,,,24-1706,2024-11-07,Institut de formation des professions sanitaires et sociales,rédacteur,,Institut de formation des professions sanitaires et sociales,IFPSS,,2024-11-28,,
-53520,Médecin du CMS de Dumbéa sur mer  - UPASS Grande couronne - Agglomération,,,24-1331,2024-08-29,Province Sud,médecin de santé publique,,Province Sud,PVS,,2024-12-12,,
-53351,Médecin à l'UPASS de La Foa,,,24-1321,2024-08-15,Province Sud,médecin de santé publique,,Province Sud,PVS,,2024-11-28,,
-54552,Chef du service administratif et financier,,,24-1633,2024-10-24,Province Nord,attaché,,Province Nord,PVN,,2024-11-28,,
-54545,Médecin - Voh,,,24-1627,2024-10-24,Province Nord,médecin de santé publique,,Province Nord,PVN,,2024-11-28,,
-54544,Médecin  - Bélep,,,24-1626,2024-10-24,Province Nord,médecin de santé publique,,Province Nord,PVN,,2024-11-28,,
-54634,Architecte technique des systèmes,,,24-1662,2024-10-31,,ingénieur,,,,,2024-11-21,,
-54790,Chef de centre incendie et secours (CIS),,,24-1703,2024-11-07,,sapeur pompier,,,,,2024-11-28,,
+55010,Accompagnateur de nuit au sein de la maison de l'enfance de Bourail,,,24-1786,2024-11-21,Province Sud,ACDP-Grille rémunération 2-Diplôme niveau V,,Province Sud,PVS,,2024-12-12,,
+55306,Psychologue au sein de la maison de l'enfance de Bourail,,,24-1890,2024-12-05,Province Sud,psychologue,,Province Sud,PVS,,2024-12-26,,
+55322,Chargé de projet,,,24-1906,2024-12-05,Province Nord,rédacteur,,Province Nord,PVN,,2024-12-26,,
+54657,Infirmier d'internat,,,24-1679,2024-10-31,Province Nord,infirmier en soins généraux,,Province Nord,PVN,,2024-12-05,,
+52814,3 INFIRMIERS EN SOINS GENERAUX,,,24-1125,2024-07-11,Province Nord,infirmier en soins généraux,,Province Nord,PVN,,2024-12-05,,
+55061,Pharmacien,,,24-1820,2024-11-21,Province Nord,pharmacien,,Province Nord,PVN,,2024-12-12,,
+55165,Médecin,,,24-1835,2024-11-28,Province Nord,médecin de santé publique,,Province Nord,PVN,,2024-12-19,,
+54794,Directeur,,,24-1709,2024-11-07,Province Nord,emploi fonctionnel,,Province Nord,PVN,,2024-12-12,,
+53717,Directeur,,,24-1395,2024-09-05,Province Nord,emploi fonctionnel,,Province Nord,PVN,,2024-12-12,,
+54987,Chargé(e) des contrôles de cotisations et de Validation de Services Précaires (VSP) et du Rachats d'années d'études (RAE),,,24-1764,2024-11-21,Caisse locale de retraite,rédacteur,,Caisse locale de retraite,CLR,,2024-12-12,,
+55060,01 INFIRMIER (ERE),,,24-1819,2024-11-21,Centre hospitalier du Nord,infirmier en soins généraux,,Centre hospitalier du Nord,CHN,,2024-12-12,,
+55057,01 Technicien d'Analyses en Biologie Médicale,,,24-1816,2024-11-21,Centre hospitalier du Nord,technicien de laboratoire,,Centre hospitalier du Nord,CHN,,2024-12-12,,
+54989,1 Psychologue - Agent DECLIC,,,24-1768,2024-11-21,Agence sanitaire et sociale,psychologue,,Agence sanitaire et sociale,ASS-NC,,2024-12-12,,
+55305,1 Orthophoniste,,,24-1889,2024-12-05,Province des îles Loyauté,orthophoniste,,Province des îles Loyauté,PIL,,2024-12-26,,
+55054,1 Sapeur-Pompier Professionnel (C),,,24-1813,2024-11-21,,sapeur pompier,,,,,2024-12-12,,
 54029,1 Chef de garde de centre d'incendie et de secours (CIS),,,24-1490,2024-09-26,,sapeur pompier,,,,,2024-12-26,,
+55157,1 référent de la politique jeunesse,,,24-1849,2024-11-28,,adjoint administratif,,,,,2024-12-19,,
+55163,1 Mandataire agent de guichet - Sous régisseur,,,24-1830,2024-11-28,,adjoint administratif,,,,,2024-12-19,,
 54878,1 secrétaire comptable,,,24-1726,2024-11-14,,adjoint administratif,,,,,2024-12-05,,
-54775,1 assistant ressources humaines,,,24-1689,2024-11-07,,adjoint administratif,,,,,2024-11-28,,
-54898,Agent d'accueil / Guichetier,,,24-1743,2024-11-14,Province Sud,adjoint administratif,,,,,2024-12-05,,
-54814,Juriste,,,24-1688,2024-11-07,,attaché,,,,,2024-11-28,,
+54860,Chargé de la transition énergétique du service immobilier,,,24-1717,2024-11-14,Office des postes et télécommunications,cadre technique,,Office des postes et télécommunications,OPT,,2024-12-05,,
+55093,2 administrateurs pratiques métiers,,,24-1806,2024-11-21,Office des postes et télécommunications,cadre d'exploitation,,Office des postes et télécommunications,OPT,,2024-12-12,,
+55137,1 chef de section exploitation,,,24-1870,2024-11-28,Office des postes et télécommunications,cadre d'exploitation,,Office des postes et télécommunications,OPT,,2024-12-19,,
+55310,Conseiller en recrutement et analyse de la performance,,,24-1895,2024-12-05,Office des postes et télécommunications,cadre d'exploitation,,Office des postes et télécommunications,OPT,,2024-12-26,,
+55328,1 coordonnateur,,,24-1912,2024-12-05,,rédacteur d'administration générale,,,,,2024-12-26,,
+54985,1 Chef de section,,,24-1761,2024-11-21,,rédacteur d'administration générale,,,,,2024-12-12,,
+55154,3 chargés de contact clientèle à l'agence principale,,,24-1852,2024-11-28,Office des postes et télécommunications,agent d'exploitation,,Office des postes et télécommunications,OPT,,2024-12-19,,
+55140,1 chef de cellule départ,,,24-1867,2024-11-28,Office des postes et télécommunications,contrôleur,,Office des postes et télécommunications,OPT,,2024-12-19,,
+54977,Chef d'agence de Houaïlou,,,24-1752,2024-11-21,Office des postes et télécommunications,contrôleur,,Office des postes et télécommunications,OPT,,2024-12-12,,
+55030,Chef d'agence de Ponérihouen,,,24-1753,2024-11-21,Office des postes et télécommunications,contrôleur,,Office des postes et télécommunications,OPT,,2024-12-12,,
+55135,1 directeur(rice) adjoint(e),,,24-1872,2024-11-28,Office des postes et télécommunications,emploi fonctionnel,,Office des postes et télécommunications,OPT,,2024-12-19,,
+52981,Chargé(e) d'études en santé publique,"Ingénieur Hygiène, Sécurité et Environnement en industrie -HSE-",H1302-17,24-52981/MPRH,2024-11-25,Nouvelle-Calédonie,ingénieur,,Direction des affaires sanitaires et sociales,DASS,Nouméa,2024-12-12,"Placé(e) sous l'autorité du chef du bureau santé environnement, le/la chargé(é) d'études aura pour missions de participer à la surveillance entomologique, d'analyser les risques sanitaires affectant la population humaine, de proposer, de mettre en œuvre, d'évaluer des programmes de surveillance, d'action, de contrôle, de prévention, dans différents domaines de santé publique notamment en santé environnementale.
+Le poste inclut également une collaboration avec d'autres bureaux pour des projets transversaux en santé publique.",ann-claire.gourinat@gouv.nc
+54814,Juriste,,,24-1688,2024-11-07,,attaché,,,,,2024-12-19,,
+55294,2 Assistant(e)s médico-administratif au Pool,,,24-1879,2024-12-05,"Centre hospitalier territorial ""Gaston Bourret""",rédacteur,,"Centre hospitalier territorial ""Gaston Bourret""",CHT,,2024-12-26,,
+54864,1 Assistant(e) Médico-Administratif - Centre de don du sang,,,24-1721,2024-11-14,"Centre hospitalier territorial ""Gaston Bourret""",rédacteur,,"Centre hospitalier territorial ""Gaston Bourret""",CHT,,2024-12-05,,
+55301,1 Chef de garde,,,24-1886,2024-12-05,,adjudant,,,,,2024-12-26,,
+55169,Chef de garde,,,24-1838,2024-11-28,,adjudant,,,,,2024-12-19,,
+54891,1 Chef de service adjoint hôtellerie et logistique,,,24-1738,2024-11-14,"Centre hospitalier territorial ""Gaston Bourret""",attaché,,"Centre hospitalier territorial ""Gaston Bourret""",CHT,,2024-12-05,,
+55295,1 Infirmier(e) en soins généraux en cardiologie,,,24-1880,2024-12-05,"Centre hospitalier territorial ""Gaston Bourret""",infirmier en soins généraux,,"Centre hospitalier territorial ""Gaston Bourret""",CHT,,2024-12-26,,
+55179,1 animateur socio-éducatif,,,24-1848,2024-11-28,,animateur socio-éducatif,,,,,2024-12-19,,
+55173,8 Infirmier(e)s de bloc opératoire,,,24-1842,2024-11-28,"Centre hospitalier territorial ""Gaston Bourret""",infirmier de bloc opératoire,,"Centre hospitalier territorial ""Gaston Bourret""",CHT,,2024-12-19,,
+55335,1 Chargé(e) d'études stratégiques et rénovation urbaine,,,24-1918,2024-12-05,,ingénieur,,,,,2024-12-26,,
+55147,1 directeur de cabinet,,,24-1860,2024-11-28,,emploi fonctionnel,,,,,2024-12-19,,
+55172,1 assistant(e) social(e),,,24-1841,2024-11-28,"Centre hospitalier spécialisé ""Albert Bousquet""",assistant socio-éducatif,,"Centre hospitalier spécialisé ""Albert Bousquet""",CHS,,2024-12-19,,
+55331,1 ergothérapeute,,,24-1914,2024-12-05,"Centre hospitalier spécialisé ""Albert Bousquet""",ergothérapeute,,"Centre hospitalier spécialisé ""Albert Bousquet""",CHS,,2024-12-26,,
+55072,1 mécanicien(e),,,24-1824,2024-11-21,,ACDP-Grille rémunération 1-Sans diplôme,,,,,2024-12-12,,
+55327,3  Responsables d'office,,,24-1910,2024-12-05,,ACDP-Grille rémunération 1-Sans diplôme,,,,,2024-12-26,,
+55236,1 Femme de service,,,24-1877,2024-12-01,,ACDP-Grille rémunération 1-Sans diplôme,,,,,2024-12-19,,
+54994,Enseignant Spécialisé au sein de la Maison de l'enfance de Bourail,,,24-1775,2024-11-21,Province Sud,instituteur,,Province Sud,PVS,,2024-12-12,,
 54899,Soigneur au bureau zoologique du parc provincial zoologique  et forestier Michel Corbasson,,,24-1744,2024-11-14,Province Sud,technicien adjoint,,Province Sud,PVS,,2024-12-05,,
+54975,Technicien(ne) de Support Helpdesk,,,24-1750,2024-11-21,Province Sud,technicien,,Province Sud,PVS,,2024-12-12,,
+53135,Inspecteur des mines et carrières,Inspecteur de sites industriels,H1302-22,24-53135/MPRH,2024-11-17,Nouvelle-Calédonie,ingénieur,2024-09-30,"Direction de l'industrie, des mines et de l'énergie",DIMENC,Vallée du tir / Nouméa,2024-12-19,"L'inspecteur des mines et carrières veille à la bonne exploitation des mines et des carrières dans le respect des réglementations applicables en particulier au travers de son rôle d'instructeur et d'inspecteur des installations. Il s'attache à l'amélioration continue des pratiques et inscrit son action en conformité avec les objectifs stratégiques et la doctrine d'action de la direction. L'inspecteur des mines et carrières contribue, dans ses actions quotidiennes, à l'accompagnement et la consolidation de ce secteur dans une perspective de développement responsable.",sandra.gayral@gouv.nc
+52374,Chef du service énergie,"Chef du service environnement en industrie, environnement-hygiène-sécurité en industrie, hygiène-sécurité en industrie",H1302-6,24-52374/MPRH,2024-11-18,Nouvelle-Calédonie,ingénieur,2024-08-14,"Direction de l'industrie, des mines et de l'énergie",DIMENC,NOUMEA,2024-12-05,"Sous l'autorité du directeur et du directeur adjoint, le chef du service de l'énergie est chargé de participer à l'élaboration et à la mise en œuvre des politiques publiques opérationnelles et stratégiques en matière d'énergie. Il garantit par ailleurs la bonne  réalisation de l'ensemble des missions dévolues à son service, notamment : 
+1 - Encadrer l'approvisionnement et la qualité des produits et services énergétiques ;
+2 - Proposer une trajectoire de développement des installations de production, de stockage et des réseaux publics d'électricité, dans le cadre de la programmation pluriannuelle de l'énergie ;
+3 - Gérer le fonds d'électrification rurale ;
+4 - Assumer les missions de régulation du secteur de l'énergie, y compris la fixation ou l'encadrement des prix publics de vente de l'essence, du gazole, du gaz et de l'électricité conformément aux textes en vigueur ;
+5  - Elaborer et mettre en œuvre des mécanismes visant à lutter contre la précarité énergétique ;
+6 -  Assurer la mission de tutelle de l'agence Calédonienne de l'Energie ;
+7 - Assurer le suivi de la mise en œuvre de l'appui budgétaire de l'Union européenne en faveur de la transition énergétique et du schéma de transition énergétique de la Nouvelle Calédonie, incluant des actions en faveur du verdissement de l'industrie calédonienne, la généralisation d'une approche économe en énergie dans tous les secteurs d'activité et notamment celui des transports, en lien avec les autres services compétents (DITTT, DAPM etc.) ;
+8 - Acquérir et partager la connaissance et les données sur l'énergie et le climat.",jean-yves.saussol@gouv.nc
 54897,Agent de prévention et de proximité - Garde Nature,,,24-1742,2024-11-14,Province Sud,technicien,,Province Sud,PVS,,2024-12-05,,
-54107,Assistante sociale de polyvalence de secteur,,,24-1481,2024-10-03,Province Sud,assistant socio-éducatif,,Province Sud,PVS,,2024-11-21,,
+55309,Technicien élevage ovin/bovin,,,24-1893,2024-12-05,Province Sud,technicien,,Province Sud,PVS,,2024-12-26,,
+55064,Adjoint au chef du département des statistiques de prix et transactions,,,24-1803,2024-11-21,Institut de la statistique et des études économiques,rédacteur,,Institut de la statistique et des études économiques,ISEE,,2024-12-12,,
+55028,Chef de service de la performance opérationnelle (POP),,,24-1794,2024-11-21,Province Sud,ingénieur,,Province Sud,PVS,,2024-12-12,,
+55015,Incident Manager,,,24-1788,2024-11-21,Province Sud,ingénieur,,Province Sud,PVS,,2024-12-12,,
+55021,Chef de service des développements et des opérations (DEVOPS),,,24-1791,2024-11-21,Province Sud,ingénieur,,Province Sud,PVS,,2024-12-12,,
+55026,Chef de service adjoint des développements et des  opérations (DEVOPS),,,24-1793,2024-11-21,Province Sud,ingénieur,,Province Sud,PVS,,2024-12-12,,
+55019,Chef du service des infrastructures et de la logistique (SIL),,,24-1790,2024-11-21,Province Sud,ingénieur,,Province Sud,PVS,,2024-12-12,,
+55337,Chargé de projet de développement territorial,,,24-1894,2024-12-05,Province Sud,ingénieur,,Province Sud,PVS,,2024-12-26,,
+55013,Formateur de la filière santé,,,24-1787,2024-11-21,Institut de formation des professions sanitaires et sociales,cadre de santé,,Institut de formation des professions sanitaires et sociales,IFPSS,,2024-12-12,,
+54992,Accompagnateur socio-éducatif au sein de la maison de l'enfance  de Bourail,,,24-1772,2024-11-21,Province Sud,adjoint socio-éducatif,,Province Sud,PVS,,2024-12-12,,
+54996,Moniteur éducateur au sein de la maison de l'enfance de Bourail,,,24-1777,2024-11-21,Province Sud,moniteur socio-éducatif,,Province Sud,PVS,,2024-12-12,,
+54107,Assistante sociale de polyvalence de secteur,,,24-1481,2024-10-03,Province Sud,assistant socio-éducatif,,Province Sud,PVS,,2024-12-19,,
+54995,Travailleur Social au sein de la maison de l'enfance de Bourail,,,24-1776,2024-11-21,Province Sud,assistant socio-éducatif,,Province Sud,PVS,,2024-12-12,,
+54998,Educateur spécialisé ou moniteur-éducateur au sein de la maison  de l'enfance de Bourail,,,24-1779,2024-11-21,Province Sud,assistant socio-éducatif,,Province Sud,PVS,,2024-12-12,,
 54862,Travailleur social,,,24-1719,2024-11-14,Province Sud,assistant socio-éducatif,,Province Sud,PVS,,2024-12-05,,
-54613,Adjoint au chef du centre d'incendie et de secours,,,24-1642,2024-10-31,Province Sud,lieutenant,,Province Sud,PVS,,2024-11-21,,
-54612,Chargé d'actions,,,24-1641,2024-10-31,Province Sud,conseiller socio-éducatif,,Province Sud,PVS,,2024-11-21,,
+54712,Directeur adjoint,"Directeur des bâtiments, des travaux bâtiment",I1101-4,24-54712/MPRH,2024-11-21,Nouvelle-Calédonie,emploi fonctionnel,2025-01-02,"Direction des achats, du patrimoine et des moyens",DAPM,Nouméa,2024-12-12,"Le directeur adjoint a pour missions la conception, l'animation et la coordination des politiques publiques dans les domaines d'intervention de la direction. Il concourt à la définition et à la mise en œuvre des orientations stratégiques de la collectivité et des modes de gestion dans une finalité de service public.
+Il coordonne les services de son secteur et par délégation, met en œuvre, régule, contrôle et évalue l'activité des services. Il est plus spécifiquement porté sur l'organisation interne de la direction.  Il assure la coordination de l'ensemble de ses process, en lien avec les parties prenantes du secteur",dominique.haeweng@gouv.nc
+55008,Accompagnateur de nuit au sein de la maison de l'enfance de Bourail,,,24-1785,2024-11-21,Province Sud,ACDP-Grille rémunération 2-Diplôme niveau V,,Province Sud,PVS,,2024-12-12,,
+55002,Accompagnateur de jour et auxiliaire en intervention sociale et  familiale au sein de la maison de l'enfance de Bourail,,,24-1782,2024-11-21,Province Sud,ACDP-Grille rémunération 2-Diplôme niveau V,,Province Sud,PVS,,2024-12-12,,
+54999,Accompagnateur de jour et auxiliaire en intervention sociale et  familiale,,,24-1780,2024-11-21,Province Sud,ACDP-Grille rémunération 2-Diplôme niveau V,,Province Sud,PVS,,2024-12-12,,
+55004,Accompagnateur de nuit au sein de la maison de l'enfance de Bourail,,,24-1783,2024-11-21,Province Sud,ACDP-Grille rémunération 2-Diplôme niveau V,,Province Sud,PVS,,2024-12-12,,
 54888,Gestionnaire Infrastructures,,,24-1736,2024-11-14,Province Nord,ingénieur,,Province Nord,PVN,,2024-12-05,,
 54887,Assistant(e) social(e) de secteur,,,24-1735,2024-11-14,Province Nord,assistant socio-éducatif,,Province Nord,PVN,,2024-12-05,,
-54160,Assistant(e) social(e) de secteur,,,24-1521,2024-10-03,Province Nord,assistant socio-éducatif,,Province Nord,PVN,,2024-11-28,,
-54696,INFIRMIER EN SOINS GENERAUX,,,24-1686,2024-10-31,Province Nord,infirmier en soins généraux,,Province Nord,PVN,,2024-11-21,,
-54647,1 INFIRMIER EN SOINS GENERAUX,,,24-1673,2024-10-31,Province Nord,infirmier en soins généraux,,Province Nord,PVN,,2024-11-21,,
-53115,1 INFIRMIER EN SOINS GENERAUX,,,24-1235,2024-08-01,Province Nord,infirmier en soins généraux,,Province Nord,PVN,,2024-11-21,,
-54397,Médecin,,,24-1591,2024-10-17,Province Nord,médecin de santé publique,,Province Nord,PVN,,2024-11-21,,
+54160,Assistant(e) social(e) de secteur,,,24-1521,2024-10-03,Province Nord,assistant socio-éducatif,,Province Nord,PVN,,2024-12-12,,
+54647,1 INFIRMIER EN SOINS GENERAUX,,,24-1673,2024-10-31,Province Nord,infirmier en soins généraux,,Province Nord,PVN,,2024-12-05,,
+53115,1 INFIRMIER EN SOINS GENERAUX,,,24-1235,2024-08-01,Province Nord,infirmier en soins généraux,,Province Nord,PVN,,2024-12-05,,
+55323,Éducateur voile,,,24-1907,2024-12-05,Province Nord,éducateur des APS,,Province Nord,PVN,,2024-12-26,,
 54874,Infirmier(e) scolaire,,,24-1725,2024-11-14,Vice-rectorat,infirmier en soins généraux,,Vice-rectorat,VR,,2024-12-05,,
-54780,Assistant(e) responsable de la tutelle des EPENC,,,24-1694,2024-11-07,Vice-rectorat,rédacteur,,Vice-rectorat,VR,,2024-11-28,,
-54616,03 Manipulateurs d'Electroradiologie médicale,,,24-1645,2024-10-31,Centre hospitalier du Nord,manipulateur en électroradiologie,,Centre hospitalier du Nord,CHN,,2024-11-21,,
+55066,Contrôleur de gestion et chargé de la modernisation de l'administration du vice-rectorat,,,24-1765,2024-11-21,Vice-rectorat,attaché,,Vice-rectorat,VR,,2024-12-12,,
+55059,02 INFIRMIERS (ERES),,,24-1818,2024-11-21,Centre hospitalier du Nord,infirmier en soins généraux,,Centre hospitalier du Nord,CHN,,2024-12-12,,
+55058,01 INFIRMIER (ERE),,,24-1817,2024-11-21,Centre hospitalier du Nord,infirmier en soins généraux,,Centre hospitalier du Nord,CHN,,2024-12-12,,
+55317,03 INFIRMIERS (ERES),,,24-1901,2024-12-05,Centre hospitalier du Nord,infirmier en soins généraux,,Centre hospitalier du Nord,CHN,,2024-12-26,,
+55314,01 SAGE FEMME,,,24-1898,2024-12-05,Centre hospitalier du Nord,sage femme,,Centre hospitalier du Nord,CHN,,2024-12-26,,
+55063,1 Gestionnaire des ressources humaines,,,24-1755,2024-11-21,Agence sanitaire et sociale,adjoint administratif,,Agence sanitaire et sociale,ASS-NC,,2024-12-12,,
 54868,Diététicien(ne),,,24-1722,2024-11-14,Agence sanitaire et sociale,diététicien,,Agence sanitaire et sociale,ASS-NC,,2024-12-05,,
-54625,1 Epidémiologiste - Statisticien,,,24-1653,2024-10-31,Agence sanitaire et sociale,ingénieur,,Agence sanitaire et sociale,ASS-NC,,2024-11-21,,
+54988,Diététicien(ne),,,24-1766,2024-11-21,Agence sanitaire et sociale,diététicien,,Agence sanitaire et sociale,ASS-NC,,2024-12-12,,
 54871,1 directeur(trice) adjoint(e),,,24-1723,2024-11-14,Province des îles Loyauté,ingénieur,,Province des îles Loyauté,PIL,,2024-12-05,,
-54656,4 Médecins,,,24-1678,2024-10-31,Province des îles Loyauté,médecin de santé publique,,Province des îles Loyauté,PIL,,2024-11-21,,
+55020,"Développeur d'applications IA, DATA, SIG",,,24-1795,2024-11-21,Province Sud,ingénieur,,Province Sud,PVS,,2024-12-12,,
 54889,Capitaine 200,,,24-1737,2024-11-14,Province des îles Loyauté,ACDP-Grille rémunération 2-Diplôme niveau V,,Province des îles Loyauté,PIL,,2024-12-05,,
-54645,Adjoint(e) au chef du service régulation et exploitation aéroports - Chef(fe) du bureau régulation,,,24-1671,2024-10-31,Direction de l'aviation civile,ingénieur des études et de l'exploitation,,Direction de l'aviation civile,DAC,,2024-11-21,,
-54782,Ingénieur maintenance,,,24-1697,2024-11-07,Direction de l'aviation civile,ingénieur électronicien systèmes de sécurité,,Direction de l'aviation civile,DAC,,2024-11-28,,
 54877,Chef division exploitation,,,24-1727,2024-11-14,Direction de l'aviation civile,ingénieur des études et de l'exploitation,,Direction de l'aviation civile,DAC,,2024-12-05,,
-53732,Chargé de mission numérique,"Ingénieur système informatique, système réseau informatique",M1802-11,24-53732/MPRH,2024-10-31,Nouvelle-Calédonie,ingénieur,,Direction des affaires économiques,DAE,Nouméa,2024-11-21,"Sous l'autorité du directeur et de son adjoint, le chargé de mission numérique accompagne la DAE, en collaboration avec la DINUM, pour fluidifier la mise en œuvre des projets.
-Il est passionné par la gestion de projets ainsi que par la transformation numérique et est convaincu de la nécessité des missions de service public.
-Il participe à l'acculturation numérique et projets auprès des agents de la direction.
-Il est la cheville ouvrière de l'amélioration continue.",dae.direction@gouv.nc
+54993,Secrétaire comptable au sein de la Maison de l'enfance de Bourail,,,24-1774,2024-11-21,Province Sud,adjoint administratif,,Province Sud,PVS,,2024-12-12,,
 54859,"Responsable Stratégie, Méthodes et Sécurité Opérationnelle des Réseaux Télécom",,,24-1746,2024-11-14,Office des postes et télécommunications,ingénieur,,Office des postes et télécommunications,OPT,,2024-12-05,,
-54626,Chargé de relation client à distance,,,24-1654,2024-10-31,Office des postes et télécommunications,agent d'exploitation,,Office des postes et télécommunications,OPT,,2024-11-21,,
+55134,Responsable CMS WEB,,,24-1873,2024-11-28,Office des postes et télécommunications,ingénieur,,Office des postes et télécommunications,OPT,,2024-12-19,,
+55143,1 agent exploitation tri,,,24-1864,2024-11-28,Office des postes et télécommunications,agent d'exploitation,,Office des postes et télécommunications,OPT,,2024-12-19,,
+55145,1 agent exploitation arrivée,,,24-1862,2024-11-28,Office des postes et télécommunications,agent d'exploitation,,Office des postes et télécommunications,OPT,,2024-12-19,,
+55144,1 agent exploitation départ,,,24-1863,2024-11-28,Office des postes et télécommunications,agent d'exploitation,,Office des postes et télécommunications,OPT,,2024-12-19,,
+55156,1 chargé de contact clientèle à l'agence de Vallée du Tir,,,24-1851,2024-11-28,Office des postes et télécommunications,agent d'exploitation,,Office des postes et télécommunications,OPT,,2024-12-19,,
+53520,Médecin du CMS de Dumbéa sur mer  - UPASS Grande couronne - Agglomération,,,24-1331,2024-08-29,Province Sud,médecin de santé publique,,Province Sud,PVS,,2024-12-12,,
+53351,Médecin à l'UPASS de La Foa,,,24-1321,2024-08-15,Province Sud,médecin de santé publique,,Province Sud,PVS,,2024-12-26,,
+55001,Educateur des activités physiques et sportives,,,24-1800,2024-11-21,Province Sud,éducateur des APS,,Province Sud,PVS,,2024-12-12,,
+55139,1 chef de cellule international,,,24-1868,2024-11-28,Office des postes et télécommunications,contrôleur,,Office des postes et télécommunications,OPT,,2024-12-19,,
 54857,Chargé de clientèle RH,,,24-1715,2024-11-14,Office des postes et télécommunications,contrôleur,,Office des postes et télécommunications,OPT,,2024-12-05,,
-54644,5 Infirmier(e)s en soins généraux - urgences adultes,,,24-1670,2024-10-31,"Centre hospitalier territorial ""Gaston Bourret""",infirmier diplômé d'État,,"Centre hospitalier territorial ""Gaston Bourret""",CHT,,2024-11-21,,
+55142,1 chef(fe) de cellule accueil clientèle,,,24-1865,2024-11-28,Office des postes et télécommunications,contrôleur,,Office des postes et télécommunications,OPT,,2024-12-19,,
+54976,Directeur de la distribution de l'OPT-NC,,,24-1751,2024-11-21,Office des postes et télécommunications,emploi fonctionnel,,Office des postes et télécommunications,OPT,,2024-12-12,,
 54880,1 Technicien maintenance - référent cuisine et mobilier,,,24-1730,2024-11-14,"Centre hospitalier territorial ""Gaston Bourret""",technicien,,"Centre hospitalier territorial ""Gaston Bourret""",CHT,,2024-12-05,,
-54879,1 chef de section - responsable maintenance génie climatique et fluides,,,24-1729,2024-11-14,"Centre hospitalier territorial ""Gaston Bourret""",technicien,,"Centre hospitalier territorial ""Gaston Bourret""",CHT,,2024-12-05,,
-54699,Agent de réception centralisée,,,24-1687,2024-10-31,"Centre hospitalier territorial ""Gaston Bourret""",rédacteur,,"Centre hospitalier territorial ""Gaston Bourret""",CHT,,2024-11-21,,
+54879,1 chef de section - responsable maintenance génie climatique et fluides,,,24-1729,2024-11-14,"Centre hospitalier territorial ""Gaston Bourret""",technicien,,"Centre hospitalier territorial ""Gaston Bourret""",CHT,,2024-12-19,,
+55293,1 Assistant(e) médico-administratif en consultation  de diabétologie,,,24-1878,2024-12-05,"Centre hospitalier territorial ""Gaston Bourret""",rédacteur,,"Centre hospitalier territorial ""Gaston Bourret""",CHT,,2024-12-26,,
 54883,1 Chargé(e) d'études juridiques,,,24-1732,2024-11-14,"Centre hospitalier territorial ""Gaston Bourret""",attaché,,"Centre hospitalier territorial ""Gaston Bourret""",CHT,,2024-12-05,,
-54816,Formateur de la filière santé,,,24-1708,2024-11-07,Institut de formation des professions sanitaires et sociales,cadre de santé,,Institut de formation des professions sanitaires et sociales,IFPSS,,2024-11-28,,
-54392,Contrôleur des affaires économiques,"Inspecteur (principal, vérificateur des impôts)",K1503-1,24-54392/MPRH,2024-10-31,Nouvelle-Calédonie,rédacteur,,Direction des affaires économiques,DAE,Nouméa,2024-11-21,"Le service de l'enregistrement des entreprises assure notamment : 
-- l'élaboration et l'application de la réglementation applicable aux professions commerciales soumises à autorisation ;
-- l'instruction des demandes d'agréments des entreprises et intermédiaires en assurances ;
-- l'instruction des demandes d'agréments des professions commerciales soumises à autorisation ;
-- les inspections et le contrôle des entreprises et intermédiaires en assurances ;
-- l'accueil et l'information des professionnels ;
-- l'instruction des dossiers qui lui sont confiés.
-Le service de l'enregistrement des entreprises est également en charge de la gestion du registre du commerce et des sociétés, et assure notamment à ce titre :
-- la tenue de la régie de recettes du registre du commerce et des sociétés et des téléservices associés ; 
-- l'accueil et renseignement du public ; 
-- la gestion de toutes formalités relevant du registre (immatriculation des sociétés, modifications, radiations).",gloria.turbatte@gouv.nc
-54342,Secrétaire comptable,,,24-1557,2024-10-17,,adjoint administratif,,,,,2024-11-28,,
-53305,Administrateur(trice) système,,,24-1281,2024-08-15,Province Sud,ingénieur,,Province Sud,PVS,,2024-11-21,,
-50072,"Chef de projet informatique, développeur d'applications",,,24-0105,2024-01-18,Province Sud,ingénieur,,Province Sud,PVS,,2024-11-21,,
+55171,2 Infirmier(e)s en soins généraux - Médecine interne,,,24-1840,2024-11-28,"Centre hospitalier territorial ""Gaston Bourret""",infirmier en soins généraux,,"Centre hospitalier territorial ""Gaston Bourret""",CHT,,2024-12-19,,
+54376,Médecin,,,24-1595,2024-10-17,Province Nord,infirmier en soins généraux,,Province Nord,PVN,,2024-12-05,,
+54545,Médecin - Voh,,,24-1627,2024-10-24,Province Nord,médecin de santé publique,,Province Nord,PVN,,2024-12-12,,
+55148,Membre non permanent de l'Autorité de la concurrence de la Nouvelle-Calédonie (ACNC),,,24-1858,2024-11-28,Autorité de la concurrence de Nouvelle-Calédonie,attaché,,Autorité de la concurrence de Nouvelle-Calédonie,,,2024-12-19,,
+54056,Data Analyst,Assistant chargé d'études socio-économiques,M1403-8,24-54056/MPRH,2024-11-21,Nouvelle-Calédonie,technicien,2025-01-30,"Direction du travail, de l'emploi et de la formation professionnelle",DTEFP,Nouméa,2024-12-12,"Sous l'autorité du chef du service RIIFE et observatoire, le chargé de l'analyse des données collecte, consolide, organise, analyse et diffuse les données relatives à l'emploi, la formation et les qualifications. Il doit participer à la fiabilisation et à l'enrichissement de l'entrepôt de données et sera le responsable technique de la qualité de son alimentation et de son évolution en fonction du travail réalisé avec les partenaires pourvoyeurs des données. Il est aussi en charge de la conception et le production de tableaux de bord et de production de jeux de données permettant de répondre aux questions posées à l'observatoire.",florence.lemaire@gouv.nc
+55192,Secrétaire général,,,24-1874,2024-11-28,Office Central de la Coopération à l'École de Nouvelle-Calédonie,attaché,,Office Central de la Coopération à l'École de Nouvelle-Calédonie,OCCE-NC,,2024-12-19,,
+54757,DIRNC/ Directeur(trice) adjoint(e),Directeur des services déconcentrés de l'Administration,K1401-1,24-54757/MPRH,2024-11-18,Direction interrégionale de Météo-France,ingénieur,2025-07-14,,,Nouméa,2024-12-10,"Le directeur adjoint seconde le directeur concernant le management et l'encadrement du service, la préparation et le suivi du budget délégué à la DIRNC, la coordination avec les différents services thématiques de Météo-France, du gouvernement de la Nouvelle-Calédonie et les relations externes.
+Il est en charge de la certification des tableaux de service de la DIRNC.",frederic.atger@meteo.fr
+54546,Infirmier à mi-temps,"Infirmier de secteur psychiatrique, de service hospitalier, de soins généraux, en santé mentale",J1506-1,24-54546/MPRH,2024-11-21,Nouvelle-Calédonie,infirmier en soins généraux,,Direction de la sécurité civile et de la gestion des risques,DSCGR,Nouméa,2024-12-12,"Le bureau du soutien médical assure trois missions principales :
+- l'aptitude médicale des personnels sapeurs-pompiers de la direction ou des communes conventionnées ;
+- la couverture sanitaire opérationnelle ;
+- les actions de prévention et de formation. 
+L'infirmier recruté sera placé :
+1/ sous l'autorité hiérarchique de l'infirmier chef ;
+2/ Sous l'autorité fonctionnelle du pharmacien gérant de la pharmacie à usage intérieur (PUI) pour ce qui concerne l'activité pharmaceutique.",anne-marie.brunier@gouv.nc
+55007,Chargé d'accueil et régisseur principal,,,24-1804,2024-11-21,,agent du patrimoine,,,,,2024-12-12,,
+53305,Administrateur(trice) système,,,24-1281,2024-08-15,Province Sud,ingénieur,,Province Sud,PVS,,2024-12-19,,
+50072,"Chef de projet informatique, développeur d'applications",,,24-0105,2024-01-18,Province Sud,ingénieur,,Province Sud,PVS,,2024-12-19,,
 54346,Travailleur social au Service de Protection de l'Enfance (BAFS),,,24-1561,2024-10-17,Province Sud,assistant socio-éducatif,,Province Sud,PVS,,2024-12-05,,
+55003,Assistant(e) social(e) de polyvalence de secteur,,,24-1801,2024-11-21,Province Sud,assistant socio-éducatif,,Province Sud,PVS,,2024-12-12,,
 54518,Chirurgien-dentiste au centre médico-social de Montravel -  UPASS de Nouméa,,,24-1602,2024-10-24,Province Sud,chirurgien dentiste,,Province Sud,PVS,,2024-12-12,,
-53350,Médecin à l'UPASS de La Foa,,,24-1320,2024-08-15,Province Sud,médecin de santé publique,,Province Sud,PVS,,2024-11-28,,
-53342,Médecin à l'UPASS de Yaté,,,24-1312,2024-08-15,Province Sud,médecin de santé publique,,Province Sud,PVS,,2024-11-28,,
-53348,Médecin à l'UPASS de Bourail,,,24-1318,2024-08-15,Province Sud,médecin de santé publique,,Province Sud,PVS,,2024-11-28,,
+53350,Médecin à l'UPASS de La Foa,,,24-1320,2024-08-15,Province Sud,médecin de santé publique,,Province Sud,PVS,,2024-12-26,,
+53342,Médecin à l'UPASS de Yaté,,,24-1312,2024-08-15,Province Sud,médecin de santé publique,,Province Sud,PVS,,2024-12-26,,
+53348,Médecin à l'UPASS de Bourail,,,24-1318,2024-08-15,Province Sud,médecin de santé publique,,Province Sud,PVS,,2024-12-26,,
 52596,Médecin à mi-temps au centre de protection maternelle et infantile,,,24-1044,2024-06-27,Province Sud,médecin de santé publique,,Province Sud,PVS,,2024-12-05,,
-53347,Médecin à l'UPASS de Nouméa - ESPACE SANTE,,,24-1317,2024-08-15,Province Sud,médecin de santé publique,,Province Sud,PVS,,2024-11-28,,
-54547,Assistant(e) social(e) de secteur,,,24-1628,2024-10-24,Province Nord,assistant socio-éducatif,,Province Nord,PVN,,2024-11-28,,
-54558,INFIRMIER EN SOINS GENERAUX,,,24-1639,2024-10-24,Province Nord,infirmier en soins généraux,,Province Nord,PVN,,2024-11-28,,
-54672,Secrétaire,Secrétaire,M1607-1,24-54672/MPRH,2024-11-07,"Conseil économique, social et environnemental",adjoint administratif,2025-01-01,"Conseil économique, social et environnemental",CESE,Nouméa - Ducos,2024-11-28,"Au sein du bureau du secrétariat de la présidence et du secrétariat général, la secrétaire assiste la cheffe de bureau dans ses missions quotidiennes. 
-Elle doit être un véritable soutien dans l'équipe à tous les niveaux de ce bureau.
-Elle travaille également en binôme avec l'agent d'accueil.",veronique.nicoli@cese.nc
-54192,Médecin évaluateur,"Médecin généraliste, Omnipraticien",J1102-15,24-54192/MPRH,2024-11-14,Nouvelle-Calédonie,médecin de santé publique,,Direction des affaires sanitaires et sociales,DASS,Nouméa,2024-12-05,"Au sein d'une équipe pluridisciplinaire, contribuer au service public de reconnaissance du handicap par l'appréciation médicale des situations et l'élaboration de propositions adaptées.",isabelle.labomme@gouv.nc
-54032,Vétérinaire - Assistant du responsable de la cellule vétérinaire,Chef de laboratoire d'analyse industrielle,H1501-1,24-54032/MPRH,2024-11-07,Nouvelle-Calédonie,ingénieur,,"Direction des affaires vétérinaires, alimentaires et rurales",DAVAR,Païta,2024-11-28,"Sous l'autorité du responsable de la cellule vétérinaire, il participe à l'ensemble des activités de la cellule vétérinaire et assure la mise en place et la validation de nouvelles analyseS dans son champ de spécialisation. Il exerce également des suppléances techniques en tant que de besoin.",fabien.escot@gouv.nc
-52352,Pharmacien Hygiéniste / Médecin Hygiéniste,"Pharmacien spécialisé en législation pharmaceutique, Pharmacien Inspecteur de la santé, de Santé Publique -PhISP-",K1402-5,24-52352/MPRH,2024-06-23,Nouvelle-Calédonie,pharmacien,,Direction des affaires sanitaires et sociales,DASS,NOUMEA,2024-11-28,Le pharmacien/médecin hygiéniste est affecté au sein du bureau des produits de santé et de la biologie médicale au sein du service de l'offre et de la qualité des soins.,direction.dass@gouv.nc
-54493,Educateur spécialisé en hébergement collectif,"Educateur (de la protection judiciaire de la jeunesse, en milieu ouvert, socioéducatif)",K1207-1,24-54493/MPRH,2024-10-31,Nouvelle-Calédonie,assistant socio-éducatif,,Direction de la protection judiciaire de l'enfance et de la jeunesse,DPJEJ,NOUMEA,2024-11-20,"Placé sous l'autorité du chef de service de l'établissement de placement éducatif du foyer d'action éducative de Nouville (EPE/FAEN), l'éducateur en hébergement collectif intervient sur mandat judiciaire au titre de l'enfance délinquante (CJPM) ou de l'enfance en danger (article 375 et suivants du code civil).",paulo.watoene@gouv.nc
-54472,Agent releveur,Agent administratif,M1602-1,24-54472/MPRH,2024-10-31,Nouvelle-Calédonie,adjoint administratif,,Direction des affaires économiques,DAE,Nouméa,2024-11-21,"Le service des prix est en charge d'assurer le relevé, la veille, l'analyse et le contrôle des prix et des marges, à tous les niveaux de la chaîne de valeur, et assure notamment : 
-
-- l'élaboration de la réglementation et de l'application des textes relatifs à la réglementation des prix;
-- le contrôle et le suivi de l'application de la réglementation en matière de prix des produits ;
-- la réalisation d'enquêtes et d'inspections dans ces domaines ;
-- l'accueil, l'information et le traitement des plaintes des consommateurs et des professionnels sur les prix pratiqués ;
-- la collecte, la veille, l'analyse des prix sur l'ensemble du territoire et le contrôle de la sincérité des données transmises par les professionnels ;
-- la création de fiches d'identification des produits et articles ;
-- la gestion des systèmes d'information dédiés à l'information du public sur les prix ;
-- la diffusion de l'information via le site internet ou l'applicatif dédié et les actions d'information et de communication sur tout support ;
-- la gestion du secrétariat du comité de l'observatoire des prix et des marges ;
-- l'instruction des dossiers qui lui sont confiés.",sylvie.pinsat@gouv.nc
-52272,Chef de service adjoint de la protection sociale,"Responsable administratif, administratif de gestion, administratif et financier",M1205-1,24-52272/MPRH,2024-08-01,Nouvelle-Calédonie,attaché,,Direction des affaires sanitaires et sociales,DASS,NOUMEA,2024-11-28,"Sous l'autorité du chef du service de la protection sociale de la DASS-NC, co-piloter la mise en œuvre de la politique de protection sociale du gouvernement de la NC et de la gestion du service de la protection sociale. 
-Le chef de service adjoint sera notamment chargé de la performance du système de protection sociale  (suivi des relations financières, de la trésorerie des comptes sociaux, de la tutelle financière des hôpitaux, de la politique de maîtrise des dépenses sanitaires et sociales).",direction.dass@gouv.nc
-54412,Directeur.trice de la préfiguration de l'Inspection Générale des Services (IGS),"Responsable administratif, administratif de gestion, administratif et financier",M1205-1,24-54412/MPRH,2024-11-10,Nouvelle-Calédonie,emploi fonctionnel,,Secrétariat général du gouvernement de la Nouvelle-Calédonie,SGGNC,Nouméa,2024-11-28,"Dans une démarche prospective, transversale et partenariale, le.la directeur.trice préfigurateur.trice de l'Inspection Générale des Services (IGS) a pour mission principale, en étroite collaboration avec le Secrétaire général du gouvernement, de concevoir, structurer et préparer la création et la mise en œuvre de la future IGS. Il.elle en définira les missions, les objectifs, le cadre de gouvernance et les principes régissant son organisation et son fonctionnement, en veillant à ce qu'elle réponde aux enjeux stratégiques de performance, de contrôle, et d'amélioration continue de notre administration. 
-
-Le.la titulaire devra piloter la création de cette future entité en tenant compte de l'organisation administrative et du contexte institutionnel du Pays et en assurant une coordination optimale avec les différents partenaires internes et externes à la collectivité.",leon.wamytan@gouv.nc
-51814,Concepteur-développeur HRAccess,"Développeur (application, informatique, multimédia, web)",M1805-6,24-51814/MPRH,2024-06-04,Nouvelle-Calédonie,ingénieur,2024-06-07,Direction du numérique et de la modernisation,DINUM,Nouméa,2024-12-12,"Le concepteur-développeur conçoit et réalise des programmes informatiques selon les règles de l'art, sur la base d'un partenariat productif avec les MOA (maîtres d'ouvrage) et sous la responsabilité d'un chef de projet.
-Il en assume la responsabilité technique et opérationnelle dans le respect du budget et des délais. Il assure la maintenance pour les applications en production.",georges.wapae@gouv.nc
-50013,Agent de maintenance,"Manœuvre bâtiment, Manoeuvre de chantier, Manoeuvre gros œuvre, Manoeuvre routier, Manoeuvre travaux publics",F1704-1,24-50013/MPRH,2024-11-07,Nouvelle-Calédonie,technicien adjoint,,"Direction des achats, du patrimoine et des moyens",DAPM,Nouméa,2024-11-28,"Sous l'autorité du chef de bureau, l'ouvrier polyvalent effectue les travaux de maintenance et d'entretien dans un ou plusieurs corps de métiers du bâtiment en suivant des directives. Il est le relais auprès du service immobilier pour les travaux relevant de prestataires extérieurs.",glenn.newman@gouv.nc
-54332,DIRNC/PREVI/Responsable de division,"Météorologiste, Météorologiste prévisionniste, Météorologue, Responsable cellule météorologique",M1809-1,24-54332/MPRH,2024-10-27,Direction interrégionale de Météo-France,ingénieur,2025-05-31,,,Nouméa,2024-12-10,"Le chef de division organise le tour d'exploitation et participe aux décisions opérationnelles avec le chef-prévisionniste (astreinte
-métier). Il participe à la permanence de direction d'avril à décembre et assure la permanence métier pour les
-situations météorologiques à enjeu. Il peut participer à des réunions internationales. Une grande disponibilité est
-requise notamment durant la saison cyclonique de novembre à avril",frederic.atger@meteo.fr
-53834,Responsable de la sécurité des systèmes d'information (RSSI),"Responsable sécurité des systèmes d'information, sécurité informatique",M1802-2,24-53834/MPRH,2024-10-06,Nouvelle-Calédonie,ingénieur,,Direction du numérique et de la modernisation,DINUM,Nouméa,2024-11-21,"Rattaché directement à la direction de la DINUM, le responsable de la sécurité des systèmes d'information (RSSI) définit et développe la politique de sécurité de l'information du gouvernement de la Nouvelle-Calédonie. Il est garant de sa mise en œuvre et en assure le suivi, en lien avec la direction, les opérateurs cybersécurité, les équipes techniques, les directions du gouvernement et les partenaires extérieurs ( Etat/ANSSI, Associations, autres collectivités).  Il assure en outre, en lien avec la direction, la coordination fonctionnelle des actions du SOC et des autres acteurs des outils de sécurité.",charles.biondi@gouv.nc
+53347,Médecin à l'UPASS de Nouméa - ESPACE SANTE,,,24-1317,2024-08-15,Province Sud,médecin de santé publique,,Province Sud,PVS,,2024-12-26,,
+54547,Assistant(e) social(e) de secteur,,,24-1628,2024-10-24,Province Nord,assistant socio-éducatif,,Province Nord,PVN,,2024-12-12,,
+54558,INFIRMIER EN SOINS GENERAUX,,,24-1639,2024-10-24,Province Nord,infirmier en soins généraux,,Province Nord,PVN,,2024-12-12,,
