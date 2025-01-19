@@ -12,6 +12,11 @@ Open data des AVPs de la DRHFPNC
 Générer le `pdf` structuré des AVPs:
 
 ```sh
-pandoc all_avps_publies.md -o all_avps_publies.pdf --pdf-engine=xelatex --toc --toc-depth=2
+pandoc all_avps_publies.md -o all_avps_publies.pdf --pdf-engine=xelatex --toc --toc-depth=1
+
+```
+
+```sh
+pandoc all_avps_publies.md -o all_avps_publies.epub --toc --toc-depth=1
 
 ```
